@@ -1,0 +1,41 @@
+jdbc.driverClassName=net.sf.log4jdbc.sql.jdbcapi.DriverSpy
+
+#h2 database settings
+#jdbc.url=jdbc:log4jdbc:h2:file:~/.h2/sample;AUTO_SERVER=TRUE;DB_CLOSE_DELAY=-1
+#jdbc.username=sa
+#jdbc.password=
+
+#mysql database setting
+#jdbc.url=jdbc:log4jdbc:mysql://localhost/sample?useUnicode=true&characterEncoding=utf-8
+#jdbc.username=root
+#jdbc.password=root
+
+#oracle database settings
+jdbc.url=jdbc:log4jdbc:oracle:thin:@172.16.49.243:1521:xddb1
+jdbc.username=dfzc_bxmc
+jdbc.password=dfzc_bxmc
+#oracle database settings
+#jdbc.url=jdbc:log4jdbc:oracle:thin:@23.4.160.35:1521:bxdb
+#jdbc.username=DFZC_BXMC
+#jdbc.password=DFZC_BXMC
+
+#connection pool settings
+jdbc.pool.initialSize=1
+jdbc.pool.minIdle=1
+jdbc.pool.maxActive=20
+jdbc.pool.maxWait=60000
+jdbc.pool.timeBetweenEvictionRunsMillis=60000
+jdbc.pool.minEvictableIdleTimeMillis=300000
+jdbc.pool.poolPreparedStatements=true
+jdbc.pool.maxPoolPreparedStatementPerConnectionSize=20
+
+#cas settings
+ac.host=http://172.16.49.243:7001
+local.host=http://localhost:8080
+portal.url=http://172.16.49.243:7001/portal
+
+#shiro-cas settings
+shiro.loginUrl=${cas.casServerUrlPrefix}?service=${cas.casService}
+shiro.successUrl=/
+cas.casServerUrlPrefix=${ac.host}/ac
+cas.casService=${local.host}/bxloan/cas

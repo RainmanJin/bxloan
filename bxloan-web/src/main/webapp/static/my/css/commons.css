@@ -1,0 +1,36 @@
+body, h1, h2, h3, h4, h5, h6 {
+	font-family: "Microsoft YaHei";
+}
+.formatNum {
+	
+}
+.user-info {
+	top: 14px;
+}
+
+.login-container .center h1 {
+	margin-top: 100px;
+}
+
+.dataTables_wrapper .row:last-child, .dataTables_wrapper .row:first-child, .table thead tr, .dataTable th.sorting_desc, .dataTable th.sorting_asc {
+    background: none repeat scroll 0 0 #fff !important;
+    color: #707070;
+}
+
+.my-button-group {
+	float: right;
+}
+.nav-list > li > a > .menu-icon {
+    vertical-align: middle;
+}
+
+.ellipsis{
+	display: block;   
+    overflow: hidden;   
+    text-overflow: ellipsis;   
+    white-space: nowrap;   
+}
+.pagination > li > a, .pagination > li > span{ padding:0 !important; height:30px; width:30px; text-align:center; line-height:30px !important;}
+.pagination  .fa{ line-height:30px;}
+html{position: static \9;}
+.footer{position:relative \9;width:100% \9;}

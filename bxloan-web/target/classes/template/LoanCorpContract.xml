@@ -1,0 +1,2489 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?mso-application progid="Word.Document"?>
+<w:wordDocument xmlns:aml="http://schemas.microsoft.com/aml/2001/core"
+	xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns:ve="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml"
+	xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.microsoft.com/office/word/2003/wordml"
+	xmlns:wx="http://schemas.microsoft.com/office/word/2003/auxHint"
+	xmlns:wsp="http://schemas.microsoft.com/office/word/2003/wordml/sp2"
+	xmlns:sl="http://schemas.microsoft.com/schemaLibrary/2003/core"
+	xmlns:ns0="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas"
+	xmlns:st1="urn:schemas-microsoft-com:office:smarttags" w:macrosPresent="no"
+	w:embeddedObjPresent="no" w:ocxPresent="no" xml:space="preserve"><w:ignoreSubtree
+	w:val="http://schemas.microsoft.com/office/word/2003/wordml/sp2" /><o:SmartTagType
+	o:namespaceuri="urn:schemas-microsoft-com:office:smarttags" o:name="chsdate" /><o:DocumentProperties><o:Author>nhy</o:Author><o:LastAuthor>Admin</o:LastAuthor><o:Revision>2</o:Revision><o:TotalTime>2</o:TotalTime><o:LastPrinted>1899-12-30T00:00:00Z</o:LastPrinted><o:Created>2014-12-17T01:12:00Z</o:Created><o:LastSaved>2014-12-17T01:12:00Z</o:LastSaved><o:Pages>10</o:Pages><o:Words>707</o:Words><o:Characters>4033</o:Characters><o:Lines>33</o:Lines><o:Paragraphs>9</o:Paragraphs><o:CharactersWithSpaces>4731</o:CharactersWithSpaces><o:Version>12</o:Version></o:DocumentProperties><o:CustomDocumentProperties><o:KSOProductBuildVer
+	dt:dt="string">2052-8.1.0.3000</o:KSOProductBuildVer></o:CustomDocumentProperties><w:fonts><w:defaultFonts
+	w:ascii="Times New Roman" w:fareast="宋体" w:h-ansi="Times New Roman"
+	w:cs="Times New Roman" /><w:font w:name="Times New Roman"><w:panose-1
+	w:val="02020603050405020304" /><w:charset w:val="00" /><w:family
+	w:val="Roman" /><w:pitch w:val="variable" /><w:sig
+	w:usb-0="E0002AFF" w:usb-1="C0007841" w:usb-2="00000009" w:usb-3="00000000"
+	w:csb-0="000001FF" w:csb-1="00000000" /></w:font><w:font w:name="Courier"><w:panose-1
+	w:val="02070409020205020404" /><w:charset w:val="00" /><w:family
+	w:val="Modern" /><w:notTrueType /><w:pitch w:val="fixed" /><w:sig
+	w:usb-0="00000003" w:usb-1="00000000" w:usb-2="00000000" w:usb-3="00000000"
+	w:csb-0="00000001" w:csb-1="00000000" /></w:font><w:font w:name="宋体"><w:altName
+	w:val="SimSun" /><w:panose-1 w:val="02010600030101010101" /><w:charset
+	w:val="86" /><w:family w:val="auto" /><w:pitch w:val="variable" /><w:sig
+	w:usb-0="00000003" w:usb-1="288F0000" w:usb-2="00000016" w:usb-3="00000000"
+	w:csb-0="00040001" w:csb-1="00000000" /></w:font><w:font w:name="黑体"><w:altName
+	w:val="SimHei" /><w:panose-1 w:val="02010609060101010101" /><w:charset
+	w:val="86" /><w:family w:val="Modern" /><w:pitch
+	w:val="fixed" /><w:sig w:usb-0="800002BF" w:usb-1="38CF7CFA"
+	w:usb-2="00000016" w:usb-3="00000000" w:csb-0="00040001" w:csb-1="00000000" /></w:font><w:font
+	w:name="Cambria Math"><w:panose-1 w:val="02040503050406030204" /><w:charset
+	w:val="00" /><w:family w:val="Roman" /><w:pitch w:val="variable" /><w:sig
+	w:usb-0="A00002EF" w:usb-1="420020EB" w:usb-2="00000000" w:usb-3="00000000"
+	w:csb-0="0000009F" w:csb-1="00000000" /></w:font><w:font w:name="方正小标宋简体"><w:altName
+	w:val="黑体" /><w:charset w:val="86" /><w:family
+	w:val="Script" /><w:pitch w:val="fixed" /><w:sig w:usb-0="00000001"
+	w:usb-1="080E0000" w:usb-2="00000010" w:usb-3="00000000" w:csb-0="00040000"
+	w:csb-1="00000000" /></w:font><w:font w:name="@宋体"><w:panose-1
+	w:val="02010600030101010101" /><w:charset w:val="86" /><w:family
+	w:val="auto" /><w:pitch w:val="variable" /><w:sig
+	w:usb-0="00000003" w:usb-1="288F0000" w:usb-2="00000016" w:usb-3="00000000"
+	w:csb-0="00040001" w:csb-1="00000000" /></w:font><w:font w:name="新宋体"><w:panose-1
+	w:val="02010609030101010101" /><w:charset w:val="86" /><w:family
+	w:val="Modern" /><w:pitch w:val="fixed" /><w:sig w:usb-0="00000003"
+	w:usb-1="288F0000" w:usb-2="00000016" w:usb-3="00000000" w:csb-0="00040001"
+	w:csb-1="00000000" /></w:font><w:font w:name="@新宋体"><w:panose-1
+	w:val="02010609030101010101" /><w:charset w:val="86" /><w:family
+	w:val="Modern" /><w:pitch w:val="fixed" /><w:sig w:usb-0="00000003"
+	w:usb-1="288F0000" w:usb-2="00000016" w:usb-3="00000000" w:csb-0="00040001"
+	w:csb-1="00000000" /></w:font><w:font w:name="@黑体"><w:panose-1
+	w:val="02010609060101010101" /><w:charset w:val="86" /><w:family
+	w:val="Modern" /><w:pitch w:val="fixed" /><w:sig w:usb-0="800002BF"
+	w:usb-1="38CF7CFA" w:usb-2="00000016" w:usb-3="00000000" w:csb-0="00040001"
+	w:csb-1="00000000" /></w:font><w:font w:name="仿宋_GB2312"><w:altName
+	w:val="Arial Unicode MS" /><w:charset w:val="86" /><w:family
+	w:val="Modern" /><w:pitch w:val="fixed" /><w:sig w:usb-0="00000000"
+	w:usb-1="080E0000" w:usb-2="00000010" w:usb-3="00000000" w:csb-0="00040000"
+	w:csb-1="00000000" /></w:font><w:font w:name="@仿宋_GB2312"><w:charset
+	w:val="86" /><w:family w:val="Modern" /><w:pitch
+	w:val="fixed" /><w:sig w:usb-0="00000001" w:usb-1="080E0000"
+	w:usb-2="00000010" w:usb-3="00000000" w:csb-0="00040000" w:csb-1="00000000" /></w:font><w:font
+	w:name="方正仿宋简体"><w:altName w:val="黑体" /><w:charset w:val="86" /><w:family
+	w:val="auto" /><w:pitch w:val="variable" /><w:sig
+	w:usb-0="00000001" w:usb-1="080E0000" w:usb-2="00000010" w:usb-3="00000000"
+	w:csb-0="00040000" w:csb-1="00000000" /></w:font><w:font w:name="@方正小标宋简体"><w:charset
+	w:val="86" /><w:family w:val="Script" /><w:pitch
+	w:val="fixed" /><w:sig w:usb-0="00000001" w:usb-1="080E0000"
+	w:usb-2="00000010" w:usb-3="00000000" w:csb-0="00040000" w:csb-1="00000000" /></w:font><w:font
+	w:name="@方正仿宋简体"><w:charset w:val="86" /><w:family w:val="auto" /><w:pitch
+	w:val="variable" /><w:sig w:usb-0="00000001" w:usb-1="080E0000"
+	w:usb-2="00000010" w:usb-3="00000000" w:csb-0="00040000" w:csb-1="00000000" /></w:font></w:fonts><w:styles><w:versionOfBuiltInStylenames
+	w:val="7" /><w:latentStyles w:defLockedState="off"
+	w:latentStyleCount="267"><w:lsdException w:name="Normal" /><w:lsdException
+	w:name="heading 1" /><w:lsdException w:name="heading 2" /><w:lsdException
+	w:name="heading 3" /><w:lsdException w:name="heading 4" /><w:lsdException
+	w:name="heading 5" /><w:lsdException w:name="heading 6" /><w:lsdException
+	w:name="heading 7" /><w:lsdException w:name="heading 8" /><w:lsdException
+	w:name="heading 9" /><w:lsdException w:name="caption" /><w:lsdException
+	w:name="Title" /><w:lsdException w:name="Subtitle" /><w:lsdException
+	w:name="Strong" /><w:lsdException w:name="Emphasis" /><w:lsdException
+	w:name="No Spacing" /><w:lsdException w:name="List Paragraph" /><w:lsdException
+	w:name="Quote" /><w:lsdException w:name="Intense Quote" /><w:lsdException
+	w:name="Subtle Emphasis" /><w:lsdException w:name="Intense Emphasis" /><w:lsdException
+	w:name="Subtle Reference" /><w:lsdException w:name="Intense Reference" /><w:lsdException
+	w:name="Book Title" /><w:lsdException w:name="TOC Heading" /></w:latentStyles><w:style
+	w:type="paragraph" w:default="on" w:styleId="a"><w:name w:val="Normal" /><wx:uiName
+	wx:val="正文" /><w:rsid w:val="00BF3013" /><w:pPr><w:widowControl
+	w:val="off" /><w:jc w:val="both" /></w:pPr><w:rPr><wx:font
+	wx:val="Times New Roman" /><w:kern w:val="2" /><w:sz w:val="21" /><w:sz-cs
+	w:val="24" /><w:lang w:val="EN-US" w:fareast="ZH-CN" w:bidi="AR-SA" /></w:rPr></w:style><w:style
+	w:type="character" w:default="on" w:styleId="a0"><w:name
+	w:val="Default Paragraph Font" /><wx:uiName wx:val="默认段落字体" /></w:style><w:style
+	w:type="table" w:default="on" w:styleId="a1"><w:name w:val="Normal Table" /><wx:uiName
+	wx:val="普通表格" /><w:rPr><wx:font wx:val="Times New Roman" /><w:lang
+	w:val="EN-US" w:fareast="ZH-CN" w:bidi="AR-SA" /></w:rPr><w:tblPr><w:tblInd
+	w:w="0" w:type="dxa" /><w:tblCellMar><w:top w:w="0" w:type="dxa" /><w:left
+	w:w="108" w:type="dxa" /><w:bottom w:w="0" w:type="dxa" /><w:right
+	w:w="108" w:type="dxa" /></w:tblCellMar></w:tblPr></w:style><w:style
+	w:type="list" w:default="on" w:styleId="a2"><w:name w:val="No List" /><wx:uiName
+	wx:val="无列表" /></w:style><w:style w:type="character" w:styleId="a3"><w:name
+	w:val="page number" /><wx:uiName wx:val="页码" /><w:basedOn
+	w:val="a0" /><w:rsid w:val="00BF3013" /></w:style><w:style
+	w:type="paragraph" w:styleId="a4"><w:name w:val="header" /><wx:uiName
+	wx:val="页眉" /><w:basedOn w:val="a" /><w:rsid w:val="00BF3013" /><w:pPr><w:pBdr><w:bottom
+	w:val="single" w:sz="6" wx:bdrwidth="15" w:space="1" w:color="auto" /></w:pBdr><w:tabs><w:tab
+	w:val="center" w:pos="4153" /><w:tab w:val="right" w:pos="8306" /></w:tabs><w:snapToGrid
+	w:val="off" /><w:jc w:val="center" /></w:pPr><w:rPr><wx:font
+	wx:val="Times New Roman" /><w:sz w:val="18" /><w:sz-cs
+	w:val="18" /></w:rPr></w:style><w:style w:type="paragraph"
+	w:styleId="2"><w:name w:val="Body Text Indent 2" /><wx:uiName
+	wx:val="正文文本缩进 2" /><w:basedOn w:val="a" /><w:rsid
+	w:val="00BF3013" /><w:pPr><w:spacing w:after-lines="25"
+	w:line="280" w:line-rule="exact" /><w:ind w:first-line-chars="200"
+	w:first-line="200" /></w:pPr><w:rPr><w:rFonts w:ascii="宋体"
+	w:h-ansi="宋体" /><wx:font wx:val="宋体" /><w:b /><w:b-cs /><w:color
+	w:val="003300" /><w:sz w:val="18" /><w:sz-cs w:val="18" /></w:rPr></w:style><w:style
+	w:type="paragraph" w:styleId="a5"><w:name w:val="footer" /><wx:uiName
+	wx:val="页脚" /><w:basedOn w:val="a" /><w:rsid w:val="00BF3013" /><w:pPr><w:tabs><w:tab
+	w:val="center" w:pos="4153" /><w:tab w:val="right" w:pos="8306" /></w:tabs><w:snapToGrid
+	w:val="off" /><w:jc w:val="left" /></w:pPr><w:rPr><wx:font
+	wx:val="Times New Roman" /><w:sz w:val="18" /><w:sz-cs
+	w:val="18" /></w:rPr></w:style><w:style w:type="table"
+	w:styleId="a6"><w:name w:val="Table Grid" /><wx:uiName
+	wx:val="网格型" /><w:basedOn w:val="a1" /><w:rsid w:val="00345A0E" /><w:rPr><wx:font
+	wx:val="Times New Roman" /></w:rPr><w:tblPr><w:tblInd w:w="0"
+	w:type="dxa" /><w:tblBorders><w:top w:val="single" w:sz="4"
+	wx:bdrwidth="10" w:space="0" w:color="auto" /><w:left w:val="single"
+	w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:bottom
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:right
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:insideH
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:insideV
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /></w:tblBorders><w:tblCellMar><w:top
+	w:w="0" w:type="dxa" /><w:left w:w="108" w:type="dxa" /><w:bottom
+	w:w="0" w:type="dxa" /><w:right w:w="108" w:type="dxa" /></w:tblCellMar></w:tblPr></w:style><w:style
+	w:type="paragraph" w:styleId="a7"><w:name w:val="Document Map" /><wx:uiName
+	wx:val="文档结构图" /><w:basedOn w:val="a" /><w:link w:val="Char" /><w:rsid
+	w:val="0017354D" /><w:rPr><w:rFonts w:ascii="宋体" /><wx:font
+	wx:val="Times New Roman" /><w:sz w:val="18" /><w:sz-cs
+	w:val="18" /></w:rPr></w:style><w:style w:type="character"
+	w:styleId="Char"><w:name w:val="文档结构图 Char" /><w:basedOn
+	w:val="a0" /><w:link w:val="a7" /><w:rsid w:val="0017354D" /><w:rPr><w:rFonts
+	w:ascii="宋体" /><w:kern w:val="2" /><w:sz w:val="18" /><w:sz-cs
+	w:val="18" /></w:rPr></w:style></w:styles><w:shapeDefaults><o:shapedefaults
+	v:ext="edit" spidmax="25602" /><o:shapelayout v:ext="edit"><o:idmap
+	v:ext="edit" data="1" /></o:shapelayout></w:shapeDefaults><w:bgPict><w:background
+	w:bgcolor="white" /></w:bgPict><w:docPr><w:view w:val="print" /><w:zoom
+	w:percent="100" /><w:doNotEmbedSystemFonts /><w:bordersDontSurroundHeader /><w:bordersDontSurroundFooter /><w:defaultTabStop
+	w:val="420" /><w:drawingGridVerticalSpacing
+	w:val="156" /><w:displayHorizontalDrawingGridEvery
+	w:val="0" /><w:displayVerticalDrawingGridEvery
+	w:val="2" /><w:punctuationKerning /><w:characterSpacingControl
+	w:val="CompressPunctuation" /><w:webPageEncoding
+	w:val="x-cp20936" /><w:optimizeForBrowser /><w:allowPNG /><w:validateAgainstSchema
+	w:val="off" /><w:saveInvalidXML w:val="off" /><w:ignoreMixedContent
+	w:val="off" /><w:alwaysShowPlaceholderText
+	w:val="off" /><w:doNotUnderlineInvalidXML /><w:hdrShapeDefaults><o:shapedefaults
+	v:ext="edit" spidmax="25602" /></w:hdrShapeDefaults><w:footnotePr><w:footnote
+	w:type="separator"><w:p wsp:rsidR="00A70DE0" wsp:rsidRDefault="00A70DE0"><w:r><w:separator /></w:r></w:p></w:footnote><w:footnote
+	w:type="continuation-separator"><w:p wsp:rsidR="00A70DE0" wsp:rsidRDefault="00A70DE0"><w:r><w:continuationSeparator /></w:r></w:p></w:footnote></w:footnotePr><w:endnotePr><w:endnote
+	w:type="separator"><w:p wsp:rsidR="00A70DE0" wsp:rsidRDefault="00A70DE0"><w:r><w:separator /></w:r></w:p></w:endnote><w:endnote
+	w:type="continuation-separator"><w:p wsp:rsidR="00A70DE0" wsp:rsidRDefault="00A70DE0"><w:r><w:continuationSeparator /></w:r></w:p></w:endnote></w:endnotePr><w:compat><w:spaceForUL /><w:balanceSingleByteDoubleByteWidth /><w:doNotLeaveBackslashAlone /><w:ulTrailSpace /><w:doNotExpandShiftReturn /><w:adjustLineHeightInTable /><w:breakWrappedTables /><w:snapToGridInCell /><w:wrapTextWithPunct /><w:useAsianBreakRules /><w:dontGrowAutofit /><w:useFELayout /></w:compat><wsp:rsids><wsp:rsidRoot
+	wsp:val="00172A27" /><wsp:rsid wsp:val="000235EC" /><wsp:rsid
+	wsp:val="00030015" /><wsp:rsid wsp:val="0006315D" /><wsp:rsid
+	wsp:val="000A1A79" /><wsp:rsid wsp:val="00110820" /><wsp:rsid
+	wsp:val="001147C2" /><wsp:rsid wsp:val="00172A27" /><wsp:rsid
+	wsp:val="0017354D" /><wsp:rsid wsp:val="001E7128" /><wsp:rsid
+	wsp:val="002772F9" /><wsp:rsid wsp:val="00291EDD" /><wsp:rsid
+	wsp:val="002C3DC2" /><wsp:rsid wsp:val="002F3AA7" /><wsp:rsid
+	wsp:val="00331211" /><wsp:rsid wsp:val="00345A0E" /><wsp:rsid
+	wsp:val="00357B38" /><wsp:rsid wsp:val="00361AB1" /><wsp:rsid
+	wsp:val="0037431E" /><wsp:rsid wsp:val="003913D8" /><wsp:rsid
+	wsp:val="003964CB" /><wsp:rsid wsp:val="003C573F" /><wsp:rsid
+	wsp:val="003D69B0" /><wsp:rsid wsp:val="004501FE" /><wsp:rsid
+	wsp:val="00540821" /><wsp:rsid wsp:val="00580CA0" /><wsp:rsid
+	wsp:val="005C2609" /><wsp:rsid wsp:val="005C3DC5" /><wsp:rsid
+	wsp:val="005D4C13" /><wsp:rsid wsp:val="005D6190" /><wsp:rsid
+	wsp:val="005E4931" /><wsp:rsid wsp:val="00623C16" /><wsp:rsid
+	wsp:val="006B6A5A" /><wsp:rsid wsp:val="006B7CF9" /><wsp:rsid
+	wsp:val="00720235" /><wsp:rsid wsp:val="00844D3F" /><wsp:rsid
+	wsp:val="00851CBC" /><wsp:rsid wsp:val="00852A9C" /><wsp:rsid
+	wsp:val="008C252D" /><wsp:rsid wsp:val="008D5D31" /><wsp:rsid
+	wsp:val="008D6039" /><wsp:rsid wsp:val="008D66D2" /><wsp:rsid
+	wsp:val="009012F0" /><wsp:rsid wsp:val="00945518" /><wsp:rsid
+	wsp:val="00962DBA" /><wsp:rsid wsp:val="00983298" /><wsp:rsid
+	wsp:val="009B377F" /><wsp:rsid wsp:val="009D7273" /><wsp:rsid
+	wsp:val="009E333B" /><wsp:rsid wsp:val="00A0396C" /><wsp:rsid
+	wsp:val="00A04F31" /><wsp:rsid wsp:val="00A34EC3" /><wsp:rsid
+	wsp:val="00A5188A" /><wsp:rsid wsp:val="00A70DE0" /><wsp:rsid
+	wsp:val="00AA5C6B" /><wsp:rsid wsp:val="00B03D6E" /><wsp:rsid
+	wsp:val="00B6091F" /><wsp:rsid wsp:val="00B755B9" /><wsp:rsid
+	wsp:val="00BC4DEE" /><wsp:rsid wsp:val="00BE7AD2" /><wsp:rsid
+	wsp:val="00BF0420" /><wsp:rsid wsp:val="00BF3013" /><wsp:rsid
+	wsp:val="00C06B4D" /><wsp:rsid wsp:val="00C31EBD" /><wsp:rsid
+	wsp:val="00C6235B" /><wsp:rsid wsp:val="00C80808" /><wsp:rsid
+	wsp:val="00C84797" /><wsp:rsid wsp:val="00CB7F66" /><wsp:rsid
+	wsp:val="00CE020B" /><wsp:rsid wsp:val="00D05BEA" /><wsp:rsid
+	wsp:val="00D35231" /><wsp:rsid wsp:val="00D363EE" /><wsp:rsid
+	wsp:val="00D36648" /><wsp:rsid wsp:val="00D47832" /><wsp:rsid
+	wsp:val="00D554E2" /><wsp:rsid wsp:val="00DB086D" /><wsp:rsid
+	wsp:val="00DB68A3" /><wsp:rsid wsp:val="00DB7782" /><wsp:rsid
+	wsp:val="00DC2F7F" /><wsp:rsid wsp:val="00E61428" /><wsp:rsid
+	wsp:val="00E96427" /><wsp:rsid wsp:val="00ED11A0" /><wsp:rsid
+	wsp:val="00EF42FE" /><wsp:rsid wsp:val="00F05391" /><wsp:rsid
+	wsp:val="00F22F31" /><wsp:rsid wsp:val="00F67A49" /><wsp:rsid
+	wsp:val="00FD2622" /><wsp:rsid wsp:val="00FD794B" /><wsp:rsid
+	wsp:val="00FE6F9E" /></wsp:rsids></w:docPr><w:body><w:p wsp:rsidR="003D69B0"
+	wsp:rsidRDefault="003D69B0" wsp:rsidP="003D69B0"><w:pPr><w:adjustRightInd
+	w:val="off" /><w:snapToGrid w:val="off" /><w:spacing
+	w:line="560" w:line-rule="at-least" /><w:jc w:val="right" /><w:rPr><w:rFonts
+	w:fareast="方正小标宋简体" /><w:sz w:val="52" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:fareast="方正小标宋简体" w:hint="fareast" /><wx:font wx:val="方正小标宋简体" /><w:sz
+	w:val="28" /></w:rPr><w:t>合同编号：</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:fareast="方正小标宋简体" w:hint="fareast" /><w:sz w:val="28" /></w:rPr><w:t>${contractNum}</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:fareast="方正小标宋简体" w:hint="fareast" /><wx:font wx:val="方正小标宋简体" /><w:sz
+	w:val="28" /></w:rPr></w:r><w:r><w:rPr><w:rFonts
+	w:fareast="方正小标宋简体" w:hint="fareast" /><w:sz w:val="28" /></w:rPr></w:r></w:p><w:p
+	wsp:rsidR="009B377F" wsp:rsidRDefault="009B377F"><w:pPr><w:adjustRightInd
+	w:val="off" /><w:snapToGrid w:val="off" /><w:spacing
+	w:line="560" w:line-rule="at-least" /><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:fareast="方正小标宋简体" /><w:sz w:val="52" /></w:rPr></w:pPr></w:p><w:p
+	wsp:rsidR="009B377F" wsp:rsidRDefault="009B377F"><w:pPr><w:adjustRightInd
+	w:val="off" /><w:snapToGrid w:val="off" /><w:spacing
+	w:line="560" w:line-rule="at-least" /><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:fareast="方正小标宋简体" /><w:sz w:val="52" /></w:rPr></w:pPr></w:p><w:p
+	wsp:rsidR="009B377F" wsp:rsidRDefault="009B377F"><w:pPr><w:adjustRightInd
+	w:val="off" /><w:snapToGrid w:val="off" /><w:spacing
+	w:line="560" w:line-rule="at-least" /><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:fareast="方正小标宋简体" /><w:sz w:val="52" /></w:rPr></w:pPr></w:p><w:p
+	wsp:rsidR="009B377F" wsp:rsidRDefault="009B377F"><w:pPr><w:adjustRightInd
+	w:val="off" /><w:snapToGrid w:val="off" /><w:spacing
+	w:line="560" w:line-rule="at-least" /><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:fareast="方正小标宋简体" /><w:sz w:val="52" /></w:rPr></w:pPr></w:p><w:p
+	wsp:rsidR="00A34EC3" wsp:rsidRDefault="00A34EC3"><w:pPr><w:adjustRightInd
+	w:val="off" /><w:snapToGrid w:val="off" /><w:spacing
+	w:line="560" w:line-rule="at-least" /><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:fareast="方正小标宋简体" /><w:sz w:val="52" /></w:rPr></w:pPr></w:p><w:p
+	wsp:rsidR="009B377F" wsp:rsidRDefault="009B377F"><w:pPr><w:adjustRightInd
+	w:val="off" /><w:snapToGrid w:val="off" /><w:spacing
+	w:line="560" w:line-rule="at-least" /><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:fareast="方正小标宋简体" /><w:sz w:val="72" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:fareast="方正小标宋简体" w:hint="fareast" /><wx:font wx:val="方正小标宋简体" /><w:sz
+	w:val="52" /></w:rPr><w:t>借款合同</w:t></w:r></w:p><w:p wsp:rsidR="009B377F"
+	wsp:rsidRDefault="009B377F"><w:pPr><w:adjustRightInd w:val="off" /><w:snapToGrid
+	w:val="off" /><w:spacing w:line="560" w:line-rule="at-least" /><w:rPr><w:rFonts
+	w:fareast="仿宋_GB2312" /><w:sz w:val="32" /></w:rPr></w:pPr></w:p><w:p
+	wsp:rsidR="009B377F" wsp:rsidRDefault="009B377F"><w:pPr><w:adjustRightInd
+	w:val="off" /><w:snapToGrid w:val="off" /><w:spacing
+	w:line="560" w:line-rule="at-least" /><w:rPr><w:rFonts
+	w:fareast="仿宋_GB2312" /><w:sz w:val="32" /></w:rPr></w:pPr></w:p><w:p
+	wsp:rsidR="009B377F" wsp:rsidRDefault="009B377F"><w:pPr><w:adjustRightInd
+	w:val="off" /><w:snapToGrid w:val="off" /><w:spacing
+	w:line="560" w:line-rule="at-least" /><w:rPr><w:rFonts
+	w:fareast="仿宋_GB2312" /><w:sz w:val="32" /></w:rPr></w:pPr></w:p><w:p
+	wsp:rsidR="009B377F" wsp:rsidRDefault="009B377F"><w:pPr><w:adjustRightInd
+	w:val="off" /><w:snapToGrid w:val="off" /><w:spacing
+	w:line="560" w:line-rule="at-least" /><w:rPr><w:rFonts
+	w:fareast="仿宋_GB2312" /><w:sz w:val="32" /></w:rPr></w:pPr></w:p><w:p
+	wsp:rsidR="009B377F" wsp:rsidRDefault="009B377F"><w:pPr><w:adjustRightInd
+	w:val="off" /><w:snapToGrid w:val="off" /><w:spacing
+	w:line="560" w:line-rule="at-least" /><w:rPr><w:rFonts
+	w:fareast="仿宋_GB2312" /><w:sz w:val="32" /></w:rPr></w:pPr></w:p><w:p
+	wsp:rsidR="009B377F" wsp:rsidRDefault="009B377F"><w:pPr><w:adjustRightInd
+	w:val="off" /><w:snapToGrid w:val="off" /><w:spacing
+	w:line="560" w:line-rule="at-least" /><w:rPr><w:rFonts
+	w:fareast="仿宋_GB2312" /><w:sz w:val="32" /></w:rPr></w:pPr></w:p><w:p
+	wsp:rsidR="009B377F" wsp:rsidRDefault="009B377F"><w:pPr><w:adjustRightInd
+	w:val="off" /><w:snapToGrid w:val="off" /><w:spacing
+	w:line="560" w:line-rule="at-least" /><w:rPr><w:rFonts
+	w:fareast="仿宋_GB2312" /><w:sz w:val="32" /></w:rPr></w:pPr></w:p><w:p
+	wsp:rsidR="009B377F" wsp:rsidRDefault="009B377F"><w:pPr><w:adjustRightInd
+	w:val="off" /><w:snapToGrid w:val="off" /><w:spacing
+	w:line="560" w:line-rule="at-least" /><w:rPr><w:rFonts
+	w:fareast="仿宋_GB2312" /><w:sz w:val="32" /></w:rPr></w:pPr></w:p><w:p
+	wsp:rsidR="009B377F" wsp:rsidRDefault="009B377F"><w:pPr><w:adjustRightInd
+	w:val="off" /><w:snapToGrid w:val="off" /><w:spacing
+	w:line="560" w:line-rule="at-least" /><w:rPr><w:rFonts
+	w:fareast="仿宋_GB2312" /><w:sz w:val="32" /></w:rPr></w:pPr></w:p><w:p
+	wsp:rsidR="009B377F" wsp:rsidRDefault="009B377F"><w:pPr><w:adjustRightInd
+	w:val="off" /><w:snapToGrid w:val="off" /><w:spacing
+	w:line="560" w:line-rule="at-least" /><w:rPr><w:rFonts
+	w:fareast="仿宋_GB2312" /><w:sz w:val="32" /></w:rPr></w:pPr></w:p><w:p
+	wsp:rsidR="009B377F" wsp:rsidRDefault="009B377F"><w:pPr><w:adjustRightInd
+	w:val="off" /><w:snapToGrid w:val="off" /><w:spacing
+	w:line="560" w:line-rule="at-least" /><w:rPr><w:rFonts
+	w:fareast="仿宋_GB2312" /><w:sz w:val="32" /></w:rPr></w:pPr></w:p><w:p
+	wsp:rsidR="009B377F" wsp:rsidRDefault="009B377F"><w:pPr><w:adjustRightInd
+	w:val="off" /><w:snapToGrid w:val="off" /><w:spacing
+	w:line="560" w:line-rule="at-least" /><w:rPr><w:rFonts
+	w:fareast="仿宋_GB2312" /><w:sz w:val="32" /></w:rPr></w:pPr></w:p><w:p
+	wsp:rsidR="009B377F" wsp:rsidRDefault="0017354D"><w:pPr><w:adjustRightInd
+	w:val="off" /><w:snapToGrid w:val="off" /><w:spacing
+	w:line="560" w:line-rule="at-least" /><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:fareast="黑体" /><w:sz w:val="32" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:fareast="方正小标宋简体" w:hint="fareast" /><wx:font wx:val="方正小标宋简体" /><w:sz
+	w:val="32" /></w:rPr><w:t>${contractCompanyName}</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:fareast="方正小标宋简体" w:hint="fareast" /><w:sz w:val="32" /></w:rPr><w:t> </w:t></w:r><w:r
+	wsp:rsidR="009B377F"><w:rPr><w:rFonts w:fareast="方正小标宋简体" w:hint="fareast" /><wx:font
+	wx:val="方正小标宋简体" /><w:sz w:val="32" /></w:rPr><w:t>印制</w:t></w:r></w:p><w:p
+	wsp:rsidR="009B377F" wsp:rsidRDefault="009B377F" wsp:rsidP="00A04F31"><w:pPr><w:tabs><w:tab
+	w:val="left" w:pos="4440" /><w:tab w:val="left" w:pos="4680" /></w:tabs><w:spacing
+	w:before="360" /><w:rPr><w:rFonts w:ascii="黑体" w:fareast="黑体"
+	w:h-ansi="新宋体" /><wx:font wx:val="黑体" /><w:b /><w:b-cs /><w:sz
+	w:val="32" /><w:sz-cs w:val="32" /></w:rPr></w:pPr></w:p><w:tbl><w:tblPr><w:tblW
+	w:w="9643" w:type="dxa" /><w:tblInd w:w="-463" w:type="dxa" /><w:tblBorders><w:top
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:left
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:bottom
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:right
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:insideH
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:insideV
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /></w:tblBorders><w:tblLayout
+	w:type="Fixed" /></w:tblPr><w:tblGrid><w:gridCol w:w="1989" /><w:gridCol
+	w:w="7654" /></w:tblGrid><w:tr wsp:rsidR="0006315D" wsp:rsidTr="00D35231"><w:trPr><w:trHeight
+	w:h-rule="exact" w:val="284" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="1989"
+	w:type="dxa" /><w:vAlign w:val="center" /></w:tcPr><w:p
+	wsp:rsidR="0006315D" wsp:rsidRDefault="0006315D" wsp:rsidP="00D35231"><w:pPr><w:ind
+	w:first-line-chars="136" w:first-line="245" /><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" /><wx:font wx:val="新宋体" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" /><wx:font wx:val="新宋体" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>借</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" w:hint="fareast" /><wx:font
+	wx:val="新宋体" /><w:sz w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>　   </w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" /><wx:font wx:val="新宋体" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>款</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" w:hint="fareast" /><wx:font
+	wx:val="新宋体" /><w:sz w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>　　 </w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" /><wx:font wx:val="新宋体" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>人</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="7654" w:type="dxa" /><w:vAlign w:val="center" /></w:tcPr><w:p
+	wsp:rsidR="0006315D" wsp:rsidRDefault="0017354D" wsp:rsidP="00540821"><w:pPr><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" /><wx:font wx:val="新宋体" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" w:hint="fareast" /><wx:font
+	wx:val="新宋体" /><w:sz w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>${debitInfo.name}</w:t></w:r></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="0006315D" wsp:rsidTr="00D35231"><w:trPr><w:trHeight
+	w:h-rule="exact" w:val="284" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="1989"
+	w:type="dxa" /><w:vAlign w:val="center" /></w:tcPr><w:p
+	wsp:rsidR="0006315D" wsp:rsidRDefault="0006315D" wsp:rsidP="00D35231"><w:pPr><w:ind
+	w:first-line-chars="136" w:first-line="245" /><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" /><wx:font wx:val="新宋体" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" w:hint="fareast" /><wx:font
+	wx:val="新宋体" /><w:sz w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>组织机构代码证号</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="7654" w:type="dxa" /><w:vAlign w:val="center" /></w:tcPr><w:p
+	wsp:rsidR="0006315D" wsp:rsidRDefault="0017354D" wsp:rsidP="00540821"><w:pPr><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" /><wx:font wx:val="新宋体" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" w:hint="fareast" /><wx:font
+	wx:val="新宋体" /><w:sz w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>${debitInfo.deptNum}</w:t></w:r></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="0006315D" wsp:rsidTr="00D35231"><w:trPr><w:trHeight
+	w:h-rule="exact" w:val="284" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="1989"
+	w:type="dxa" /><w:vAlign w:val="center" /></w:tcPr><w:p
+	wsp:rsidR="0006315D" wsp:rsidRDefault="0006315D" wsp:rsidP="00D35231"><w:pPr><w:ind
+	w:first-line-chars="136" w:first-line="245" /><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" /><wx:font wx:val="新宋体" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" /><wx:font wx:val="新宋体" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>营</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" w:hint="fareast" /><wx:font
+	wx:val="新宋体" /><w:sz w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" /><wx:font wx:val="新宋体" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>业</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" w:hint="fareast" /><wx:font
+	wx:val="新宋体" /><w:sz w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" /><wx:font wx:val="新宋体" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>执</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" w:hint="fareast" /><wx:font
+	wx:val="新宋体" /><w:sz w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" /><wx:font wx:val="新宋体" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>照</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" w:hint="fareast" /><wx:font
+	wx:val="新宋体" /><w:sz w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" /><wx:font wx:val="新宋体" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>号</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" w:hint="fareast" /><wx:font
+	wx:val="新宋体" /><w:sz w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" /><wx:font wx:val="新宋体" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>码</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="7654" w:type="dxa" /><w:vAlign w:val="center" /></w:tcPr><w:p
+	wsp:rsidR="0006315D" wsp:rsidRDefault="0017354D" wsp:rsidP="00540821"><w:pPr><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" /><wx:font wx:val="新宋体" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" w:hint="fareast" /><wx:font
+	wx:val="新宋体" /><w:sz w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>${debitInfo.businessLicenceNum}</w:t></w:r></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="0006315D" wsp:rsidTr="00D35231"><w:trPr><w:trHeight
+	w:h-rule="exact" w:val="284" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="1989"
+	w:type="dxa" /><w:vAlign w:val="center" /></w:tcPr><w:p
+	wsp:rsidR="0006315D" wsp:rsidRDefault="0006315D" wsp:rsidP="00D35231"><w:pPr><w:ind
+	w:first-line-chars="136" w:first-line="245" /><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" /><wx:font wx:val="新宋体" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" /><wx:font wx:val="新宋体" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>法定代表人</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" w:hint="fareast" /><wx:font
+	wx:val="新宋体" /><w:sz w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>/负责人</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="7654" w:type="dxa" /><w:vAlign w:val="center" /></w:tcPr><w:p
+	wsp:rsidR="0006315D" wsp:rsidRDefault="0017354D" wsp:rsidP="00540821"><w:pPr><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" /><wx:font wx:val="新宋体" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" w:hint="fareast" /><wx:font
+	wx:val="新宋体" /><w:sz w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>${debitInfo.legalRepresentative}</w:t></w:r></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="0006315D" wsp:rsidTr="00D35231"><w:trPr><w:trHeight
+	w:h-rule="exact" w:val="284" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="1989"
+	w:type="dxa" /><w:vAlign w:val="center" /></w:tcPr><w:p
+	wsp:rsidR="0006315D" wsp:rsidRDefault="0006315D" wsp:rsidP="00D35231"><w:pPr><w:ind
+	w:first-line-chars="136" w:first-line="245" /><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" /><wx:font wx:val="新宋体" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" /><wx:font wx:val="新宋体" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>地</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" w:hint="fareast" /><wx:font
+	wx:val="新宋体" /><w:sz w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" /><wx:font wx:val="新宋体" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>址</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" w:hint="fareast" /><wx:font
+	wx:val="新宋体" /><w:sz w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>　</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" /><wx:font wx:val="新宋体" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>/ 住 址</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="7654" w:type="dxa" /><w:vAlign w:val="center" /></w:tcPr><w:p
+	wsp:rsidR="0006315D" wsp:rsidRDefault="0017354D" wsp:rsidP="00540821"><w:pPr><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" /><wx:font wx:val="新宋体" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" w:hint="fareast" /><wx:font
+	wx:val="新宋体" /><w:sz w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>${debitInfo.address}</w:t></w:r></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="0006315D" wsp:rsidTr="00D35231"><w:trPr><w:trHeight
+	w:h-rule="exact" w:val="284" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="1989"
+	w:type="dxa" /><w:vAlign w:val="center" /></w:tcPr><w:p
+	wsp:rsidR="0006315D" wsp:rsidRDefault="0006315D" wsp:rsidP="00D35231"><w:pPr><w:ind
+	w:first-line-chars="136" w:first-line="245" /><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" /><wx:font wx:val="新宋体" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" /><wx:font wx:val="新宋体" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>通</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" w:hint="fareast" /><wx:font
+	wx:val="新宋体" /><w:sz w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>  </w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" /><wx:font wx:val="新宋体" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>讯</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" w:hint="fareast" /><wx:font
+	wx:val="新宋体" /><w:sz w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>  </w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" /><wx:font wx:val="新宋体" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>地</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" w:hint="fareast" /><wx:font
+	wx:val="新宋体" /><w:sz w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>  </w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" /><wx:font wx:val="新宋体" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>址</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="7654" w:type="dxa" /><w:vAlign w:val="center" /></w:tcPr><w:p
+	wsp:rsidR="0006315D" wsp:rsidRDefault="0017354D" wsp:rsidP="00540821"><w:pPr><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" /><wx:font wx:val="新宋体" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" w:hint="fareast" /><wx:font
+	wx:val="新宋体" /><w:sz w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>${debitInfo.contactAddress}</w:t></w:r></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="0006315D" wsp:rsidTr="00D35231"><w:trPr><w:trHeight
+	w:h-rule="exact" w:val="284" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="1989"
+	w:type="dxa" /><w:vAlign w:val="center" /></w:tcPr><w:p
+	wsp:rsidR="0006315D" wsp:rsidRDefault="0006315D" wsp:rsidP="00D35231"><w:pPr><w:ind
+	w:first-line-chars="136" w:first-line="245" /><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" /><wx:font wx:val="新宋体" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" /><wx:font wx:val="新宋体" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>电</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" w:hint="fareast" /><wx:font
+	wx:val="新宋体" /><w:sz w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" /><wx:font wx:val="新宋体" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>话 / </w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" w:hint="fareast" /><wx:font
+	wx:val="新宋体" /><w:sz w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>手　机</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="7654" w:type="dxa" /><w:vAlign w:val="center" /></w:tcPr><w:p
+	wsp:rsidR="0006315D" wsp:rsidRDefault="0017354D" wsp:rsidP="00540821"><w:pPr><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" /><wx:font wx:val="新宋体" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" w:hint="fareast" /><wx:font
+	wx:val="新宋体" /><w:sz w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>${debitInfo.phoneNum}</w:t></w:r></w:p></w:tc></w:tr></w:tbl><w:p
+	wsp:rsidR="009B377F" wsp:rsidRDefault="009B377F" wsp:rsidP="0006315D"><w:pPr><w:spacing
+	w:before="160" w:line="320" w:line-rule="exact" /><w:ind
+	w:first-line-chars="200" w:first-line="360" /><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" /><wx:font wx:val="新宋体" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /></w:rPr></w:pPr></w:p><w:tbl><w:tblPr><w:tblW
+	w:w="9743" w:type="dxa" /><w:tblInd w:w="-503" w:type="dxa" /><w:tblBorders><w:top
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:left
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:bottom
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:right
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:insideH
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:insideV
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /></w:tblBorders><w:tblLayout
+	w:type="Fixed" /></w:tblPr><w:tblGrid><w:gridCol w:w="1971" /><w:gridCol
+	w:w="7772" /></w:tblGrid><w:tr wsp:rsidR="009B377F" wsp:rsidTr="00D35231"><w:trPr><w:trHeight
+	w:val="313" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="1971" w:type="dxa" /><w:tcBorders><w:top
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:left
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:bottom
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:right
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /></w:tcBorders><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="009B377F"
+	wsp:rsidRDefault="009B377F" wsp:rsidP="0006315D"><w:pPr><w:ind w:left-chars="-24"
+	w:left="-5" w:hanging-chars="25" w:hanging="45" /><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" /><wx:font wx:val="新宋体" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" w:hint="fareast" /><wx:font
+	wx:val="新宋体" /><w:sz w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>贷    款    人</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="7772" w:type="dxa" /><w:tcBorders><w:top w:val="single"
+	w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:left
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:bottom
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:right
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /></w:tcBorders><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="009B377F"
+	wsp:rsidRDefault="0017354D"><w:pPr><w:rPr><w:rFonts w:ascii="新宋体"
+	w:fareast="新宋体" w:h-ansi="新宋体" /><wx:font wx:val="新宋体" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" w:hint="fareast" /><wx:font
+	wx:val="新宋体" /><w:sz w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>${creditInfo.name}</w:t></w:r></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="009B377F" wsp:rsidTr="00D35231"><w:trPr><w:trHeight w:val="313" /></w:trPr><w:tc><w:tcPr><w:tcW
+	w:w="1971" w:type="dxa" /><w:tcBorders><w:top w:val="single"
+	w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:left
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:bottom
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:right
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /></w:tcBorders><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="009B377F"
+	wsp:rsidRDefault="002772F9" wsp:rsidP="0006315D"><w:pPr><w:ind w:left-chars="-24"
+	w:left="-5" w:hanging-chars="25" w:hanging="45" /><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" /><wx:font wx:val="新宋体" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" /><wx:font wx:val="新宋体" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>法定代表人</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" w:hint="fareast" /><wx:font
+	wx:val="新宋体" /><w:sz w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>/负责人</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="7772" w:type="dxa" /><w:tcBorders><w:top w:val="single"
+	w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:left
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:bottom
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:right
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /></w:tcBorders><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="009B377F"
+	wsp:rsidRDefault="0017354D" wsp:rsidP="00030015"><w:pPr><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" /><wx:font wx:val="新宋体" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" w:hint="fareast" /><wx:font
+	wx:val="新宋体" /><w:sz w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>${creditInfo.legalRepresentative}</w:t></w:r></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="009B377F" wsp:rsidTr="00D35231"><w:trPr><w:trHeight w:val="313" /></w:trPr><w:tc><w:tcPr><w:tcW
+	w:w="1971" w:type="dxa" /><w:tcBorders><w:top w:val="single"
+	w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:left
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:bottom
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:right
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /></w:tcBorders><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="009B377F"
+	wsp:rsidRDefault="009B377F" wsp:rsidP="0006315D"><w:pPr><w:ind w:left-chars="-24"
+	w:left="-5" w:hanging-chars="25" w:hanging="45" /><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" /><wx:font wx:val="新宋体" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" w:hint="fareast" /><wx:font
+	wx:val="新宋体" /><w:sz w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>地          址</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="7772" w:type="dxa" /><w:tcBorders><w:top w:val="single"
+	w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:left
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:bottom
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:right
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /></w:tcBorders><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="009B377F"
+	wsp:rsidRDefault="0017354D" wsp:rsidP="00030015"><w:pPr><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" /><wx:font wx:val="新宋体" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" w:hint="fareast" /><wx:font
+	wx:val="新宋体" /><w:sz w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>${creditInfo.address}</w:t></w:r></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="009B377F" wsp:rsidTr="00D35231"><w:trPr><w:trHeight w:val="313" /></w:trPr><w:tc><w:tcPr><w:tcW
+	w:w="1971" w:type="dxa" /><w:tcBorders><w:top w:val="single"
+	w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:left
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:bottom
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:right
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /></w:tcBorders><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="009B377F"
+	wsp:rsidRDefault="009B377F" wsp:rsidP="0006315D"><w:pPr><w:ind w:left-chars="-24"
+	w:left="-5" w:hanging-chars="25" w:hanging="45" /><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" /><wx:font wx:val="新宋体" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" w:hint="fareast" /><wx:font
+	wx:val="新宋体" /><w:sz w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>电  话</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" /><wx:font wx:val="新宋体" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t> / </w:t></w:r><w:r
+	wsp:rsidR="002772F9"><w:rPr><w:rFonts w:ascii="新宋体" w:fareast="新宋体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="新宋体" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>手 机</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="7772" w:type="dxa" /><w:tcBorders><w:top w:val="single"
+	w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:left
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:bottom
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:right
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /></w:tcBorders><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="009B377F"
+	wsp:rsidRDefault="0017354D" wsp:rsidP="00030015"><w:pPr><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" /><wx:font wx:val="新宋体" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" w:hint="fareast" /><wx:font
+	wx:val="新宋体" /><w:sz w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>${creditInfo.phoneNum}</w:t></w:r></w:p></w:tc></w:tr></w:tbl><w:p
+	wsp:rsidR="00A04F31" wsp:rsidRDefault="009B377F" wsp:rsidP="00C84797"><w:pPr><w:spacing
+	w:before="240" w:line="200" w:line-rule="exact" /><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" /><wx:font wx:val="新宋体" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="新宋体" w:fareast="新宋体" w:h-ansi="新宋体" /><wx:font wx:val="新宋体" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>    </w:t></w:r><w:r
+	wsp:rsidR="002772F9"><w:rPr><w:rFonts w:ascii="新宋体" w:fareast="新宋体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="新宋体" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>   </w:t></w:r></w:p><w:p
+	wsp:rsidR="009B377F" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="009B377F"
+	wsp:rsidP="0006315D"><w:pPr><w:spacing w:before="240" w:line="400"
+	w:line-rule="exact" /><w:ind w:first-line-chars="200"
+	w:first-line="560" /><w:rPr><w:rFonts w:ascii="方正仿宋简体"
+	w:fareast="方正仿宋简体" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>依照中华人民共和国法律和相关规定，贷款人和借款人、共同借款人【以下统称</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /></w:rPr><w:t>“</w:t></w:r><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="新宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>借款人</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /></w:rPr><w:t>”</w:t></w:r><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="新宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>】经平等协商，</w:t></w:r><w:r
+	wsp:rsidR="00A04F31" wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体"
+	w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr><w:t>就贷款人向借款人发放流动资金贷款事宜达成一致意见</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>，</w:t></w:r><w:r
+	wsp:rsidR="00A04F31" wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体"
+	w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr><w:t>特订立本合同</w:t></w:r><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="新宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>。</w:t></w:r></w:p><wx:sub-section><w:p
+	wsp:rsidR="006B6A5A" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="006B6A5A"
+	wsp:rsidP="0017354D"><w:pPr><w:spacing w:before="60" w:line="520"
+	w:line-rule="exact" /><w:ind w:first-line-chars="198"
+	w:first-line="557" /><w:outlineLvl w:val="0" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" /><wx:font wx:val="方正仿宋简体" /><w:b /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:b /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>第一条</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:b /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>  </w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:b /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>金额</w:t></w:r></w:p><w:p
+	wsp:rsidR="006B6A5A" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="006B6A5A"
+	wsp:rsidP="0006315D"><w:pPr><w:spacing w:before="60" w:line="520"
+	w:line-rule="exact" /><w:ind w:first-line-chars="200"
+	w:first-line="560" /><w:rPr><w:rFonts w:ascii="方正仿宋简体"
+	w:fareast="方正仿宋简体" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:u w:val="single" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>本合同</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr><w:t>项下借款总额为人民币</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:u w:val="single" /></w:rPr><w:t>   </w:t></w:r><w:r
+	wsp:rsidR="0017354D"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:u w:val="single" /></w:rPr><w:t>${loanAmtCapital}</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:u w:val="single" /></w:rPr><w:t>   </w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>（大写），</w:t></w:r><w:r
+	wsp:rsidR="0017354D"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:u w:val="single" /></w:rPr><w:t>${loanAmtLower}</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:u w:val="single" /></w:rPr><w:t> </w:t></w:r></w:p><w:p
+	wsp:rsidR="006B6A5A" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="006B6A5A"
+	wsp:rsidP="00C84797"><w:pPr><w:spacing w:before="60" w:line="520"
+	w:line-rule="exact" /><w:rPr><w:rFonts w:ascii="方正仿宋简体"
+	w:fareast="方正仿宋简体" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>元（小写）。如果大小写金额不一致，以大写为准。</w:t></w:r></w:p></wx:sub-section><wx:sub-section><w:p
+	wsp:rsidR="006B6A5A" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="006B6A5A"
+	wsp:rsidP="0017354D"><w:pPr><w:spacing w:before="60" w:line="520"
+	w:line-rule="exact" /><w:ind w:first-line-chars="198"
+	w:first-line="557" /><w:outlineLvl w:val="0" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" /><wx:font wx:val="方正仿宋简体" /><w:b /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:b /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>第二条</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:b /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>  </w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:b /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>期限</w:t></w:r></w:p><w:p
+	wsp:rsidR="006B6A5A" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="006B6A5A"
+	wsp:rsidP="0006315D"><w:pPr><w:spacing w:line="500" w:line-rule="exact" /><w:ind
+	w:first-line-chars="200" w:first-line="560" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="新宋体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>借款期限为以下第</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:u w:val="single" /></w:rPr><w:t>   </w:t></w:r><w:r
+	wsp:rsidR="0017354D"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:u w:val="single" /></w:rPr><w:t>${contractTerm.selectResult}</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:u w:val="single" /></w:rPr><w:t>   </w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>项：（壹）</w:t></w:r><w:r
+	wsp:rsidR="0017354D"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:u w:val="single" /></w:rPr><w:t>    </w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:u w:val="single" /></w:rPr><w:t> </w:t></w:r><w:r
+	wsp:rsidR="0017354D"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:u w:val="single" /></w:rPr><w:t>${contractTerm.item1?default("   ")}</w:t></w:r><w:r
+	wsp:rsidR="0017354D"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:u w:val="single" /></w:rPr><w:t>  </w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:u w:val="single" /></w:rPr><w:t>    </w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>年；</w:t></w:r><w:r
+	wsp:rsidR="0017354D"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t> </w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>（</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>贰）</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:u w:val="single" /></w:rPr><w:t>   </w:t></w:r><w:r
+	wsp:rsidR="0017354D"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:u w:val="single" /></w:rPr><w:t>${contractTerm.item2?default("   ")}</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:u w:val="single" /></w:rPr><w:t>   </w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>月；（叁）</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:u w:val="single" /></w:rPr><w:t>    </w:t></w:r><w:r
+	wsp:rsidR="0017354D"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:u w:val="single" /></w:rPr><w:t>${contractTerm.item3?default("   ")}</w:t></w:r><w:r
+	wsp:rsidR="0017354D"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:u w:val="single" /></w:rPr><w:t>  </w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:u w:val="single" /></w:rPr><w:t>   </w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>日。</w:t></w:r></w:p><w:p
+	wsp:rsidR="006B6A5A" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="006B6A5A"
+	wsp:rsidP="0006315D"><w:pPr><w:spacing w:line="500" w:line-rule="exact" /><w:ind
+	w:first-line-chars="200" w:first-line="560" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="新宋体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>本合同项下的借款期限起始日以第一次放款时的借款凭证所载实际放款日期为准。借款到期日不超过本条约定的借款期限。</w:t></w:r></w:p><w:p
+	wsp:rsidR="006B6A5A" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="006B6A5A"
+	wsp:rsidP="0006315D"><w:pPr><w:spacing w:before="60" w:line="500"
+	w:line-rule="exact" /><w:ind w:first-line-chars="200"
+	w:first-line="560" /><w:rPr><w:rFonts w:ascii="方正仿宋简体"
+	w:fareast="方正仿宋简体" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>借款借据是本合同的组成部分，与本合同具有同等法律效力</w:t></w:r></w:p></wx:sub-section><wx:sub-section><w:p
+	wsp:rsidR="009B377F" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="009B377F"
+	wsp:rsidP="0017354D"><w:pPr><w:spacing w:before="60" w:line="500"
+	w:line-rule="exact" /><w:ind w:first-line-chars="198"
+	w:first-line="557" /><w:outlineLvl w:val="0" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" /><wx:font wx:val="方正仿宋简体" /><w:b /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:b /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>第</w:t></w:r><w:r
+	wsp:rsidR="006B6A5A" wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体"
+	w:fareast="方正仿宋简体" w:h-ansi="新宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:b /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /></w:rPr><w:t>三</w:t></w:r><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="新宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:b /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /></w:rPr><w:t>条</w:t></w:r><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:b /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /></w:rPr><w:t>  </w:t></w:r><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="新宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:b /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /></w:rPr><w:t>用途</w:t></w:r></w:p><w:p wsp:rsidR="006B6A5A"
+	wsp:rsidRPr="00D363EE" wsp:rsidRDefault="006B6A5A" wsp:rsidP="006B6A5A"><w:pPr><w:autoSpaceDE
+	w:val="off" /><w:autoSpaceDN w:val="off" /><w:adjustRightInd
+	w:val="off" /><w:spacing w:line="520" w:line-rule="exact" /><w:ind
+	w:right="-94" w:first-line="465" /><w:jc w:val="left" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="Courier" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:cs="宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>本合同项下的借款用途如下：</w:t></w:r></w:p><w:p
+	wsp:rsidR="00A04F31" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="009B377F"
+	wsp:rsidP="0006315D"><w:pPr><w:spacing w:before="60" w:line="500"
+	w:line-rule="exact" /><w:ind w:first-line-chars="200"
+	w:first-line="560" /><w:rPr><w:rFonts w:ascii="方正仿宋简体"
+	w:fareast="方正仿宋简体" w:h-ansi="新宋体" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:u w:val="single" /></w:rPr><w:t>    </w:t></w:r><w:r
+	wsp:rsidR="0017354D"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:u w:val="single" /></w:rPr><w:t>${loanPurpose}</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:u w:val="single" /></w:rPr><w:t>    </w:t></w:r></w:p><w:p
+	wsp:rsidR="009B377F" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="009B377F"
+	wsp:rsidP="0006315D"><w:pPr><w:spacing w:before="60" w:line="500"
+	w:line-rule="exact" /><w:ind w:first-line-chars="200"
+	w:first-line="560" /><w:rPr><w:rFonts w:ascii="方正仿宋简体"
+	w:fareast="方正仿宋简体" w:h-ansi="新宋体" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>未经贷款人书面同意，借款人不得擅自改变贷款用途。</w:t></w:r></w:p></wx:sub-section><wx:sub-section><w:p
+	wsp:rsidR="009B377F" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="009B377F"
+	wsp:rsidP="0017354D"><w:pPr><w:spacing w:before="60" w:line="500"
+	w:line-rule="exact" /><w:ind w:first-line-chars="198"
+	w:first-line="557" /><w:outlineLvl w:val="0" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" /><wx:font wx:val="方正仿宋简体" /><w:b /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:b /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>第四条</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:b /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>  </w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:b /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>利率</w:t></w:r></w:p><w:p
+	wsp:rsidR="002772F9" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="002772F9"
+	wsp:rsidP="0006315D"><w:pPr><w:spacing w:line="500" w:line-rule="exact" /><w:ind
+	w:first-line-chars="200" w:first-line="560" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="新宋体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>本合同项下人民币贷款利率按以下第</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:u w:val="single" /></w:rPr><w:t>   </w:t></w:r><w:r
+	wsp:rsidR="0017354D"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:u w:val="single" /></w:rPr><w:t>${intRate.selectResult}</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:u w:val="single" /></w:rPr><w:t>   </w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>种方式执行：</w:t></w:r></w:p><w:p
+	wsp:rsidR="002772F9" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="002772F9"
+	wsp:rsidP="0006315D"><w:pPr><w:spacing w:line="500" w:line-rule="exact" /><w:ind
+	w:first-line-chars="200" w:first-line="560" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="新宋体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>1.固定利率：贷款年利率为</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:u w:val="single" /></w:rPr><w:t>   </w:t></w:r><w:r
+	wsp:rsidR="0017354D"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:u w:val="single" /></w:rPr><w:t>${intRate.yearRateOfFixed?default("    ")}</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:u w:val="single" /></w:rPr><w:t>   </w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>%，日利率换算公式为：日利率 = 年利率÷360。利息从贷款实际发放到贷款发放账户之日起算，按日计息，合同期内贷款利率不变；</w:t></w:r></w:p><w:p
+	wsp:rsidR="002772F9" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="002772F9"
+	wsp:rsidP="0006315D"><w:pPr><w:spacing w:line="500" w:line-rule="exact" /><w:ind
+	w:first-line-chars="200" w:first-line="560" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="新宋体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>2.浮动利率：贷款年利率为</w:t></w:r><w:r
+	wsp:rsidR="0017354D"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:u w:val="single" /></w:rPr><w:t>   </w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:u w:val="single" /></w:rPr><w:t> </w:t></w:r><w:r
+	wsp:rsidR="0017354D"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:u w:val="single" /></w:rPr><w:t>${intRate.yearRateOfFloat?default("    ")}</w:t></w:r><w:r
+	wsp:rsidR="0017354D"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:u w:val="single" /></w:rPr><w:t>   </w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:u w:val="single" /></w:rPr><w:t> </w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>%，日利率换算公式为：日利率 = 年利率÷360。利息从贷款实际发放到贷款发放账户之日起算，按日计息，合同期内遇中国人民银行调整贷款基准利率，调整方式为</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:u w:val="single" /></w:rPr><w:t>    </w:t></w:r><w:r
+	wsp:rsidR="0017354D"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:u w:val="single" /></w:rPr><w:t>    </w:t></w:r><w:r
+	wsp:rsidR="0017354D"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:u w:val="single" /></w:rPr><w:tab /></w:r><w:r
+	wsp:rsidR="0017354D"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:u w:val="single" /></w:rPr><w:t>${intRate.adjustmentsOfFloat?default("    ")}</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:u w:val="single" /></w:rPr><w:t>    </w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>：      </w:t></w:r></w:p><w:p
+	wsp:rsidR="002772F9" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="002772F9"
+	wsp:rsidP="0006315D"><w:pPr><w:spacing w:line="500" w:line-rule="exact" /><w:ind
+	w:first-line-chars="200" w:first-line="560" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="新宋体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>（1）于利率调整当日按中国人民银行调整贷款基准利率调整本合同贷款基准利率，利率浮动比率保持不变，分段计息，贷款人不再另行告知借款人。</w:t></w:r></w:p><w:p
+	wsp:rsidR="002772F9" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="002772F9"
+	wsp:rsidP="0006315D"><w:pPr><w:spacing w:before="60" w:line="500"
+	w:line-rule="exact" /><w:ind w:first-line-chars="198"
+	w:first-line="554" /><w:rPr><w:rFonts w:ascii="方正仿宋简体"
+	w:fareast="方正仿宋简体" w:h-ansi="新宋体" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>（2）于下一年度的公历</w:t></w:r><st1:chsdate
+	IsROCDate="False" IsLunarDate="False" Day="1" Month="1" Year="2010"
+	w:st="on"><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体"
+	w:fareast="方正仿宋简体" w:h-ansi="新宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>1月1日起</w:t></w:r></st1:chsdate><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>调整本合同贷款基准利率，利率浮动比率保持不变，分段计息，贷款人无需另行告知借款人。</w:t></w:r></w:p></wx:sub-section><wx:sub-section><w:p
+	wsp:rsidR="009B377F" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="009B377F"
+	wsp:rsidP="0017354D"><w:pPr><w:spacing w:before="60" w:line="500"
+	w:line-rule="exact" /><w:ind w:first-line-chars="198"
+	w:first-line="557" /><w:outlineLvl w:val="0" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" /><wx:font wx:val="方正仿宋简体" /><w:b /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:b /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>第五条</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:b /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>  </w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:b /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>还款方式</w:t></w:r></w:p><w:p
+	wsp:rsidR="009B377F" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="009B377F"
+	wsp:rsidP="0006315D"><w:pPr><w:spacing w:before="60" w:line="500"
+	w:line-rule="exact" /><w:ind w:first-line-chars="227"
+	w:first-line="636" /><w:rPr><w:rFonts w:ascii="方正仿宋简体"
+	w:fareast="方正仿宋简体" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /></w:rPr><w:t>1</w:t></w:r><w:r wsp:rsidR="002772F9"
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /></w:rPr><w:t>．</w:t></w:r><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t> </w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>借款人采用下述第</w:t></w:r><w:r
+	wsp:rsidR="0017354D"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:u w:val="single" /></w:rPr><w:t>${repaymentMode.selectResult}</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>种方式进行还款：（</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /></w:rPr><w:t>1</w:t></w:r><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="新宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>）等额本息：每个还款日以相等的金额偿还贷款本金和利息；（</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /></w:rPr><w:t>2</w:t></w:r><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="新宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>）一次性还本付息：在到期日一次性还本付息；（</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /></w:rPr><w:t>3</w:t></w:r><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="新宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>）</w:t></w:r><w:r
+	wsp:rsidR="002772F9" wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体"
+	w:fareast="方正仿宋简体" w:h-ansi="新宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>其他：</w:t></w:r><w:r
+	wsp:rsidR="00FD2622" wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体"
+	w:fareast="方正仿宋简体" w:h-ansi="新宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:u
+	w:val="single" /></w:rPr><w:t>    </w:t></w:r><w:r wsp:rsidR="002772F9"
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:u w:val="single" /></w:rPr><w:t>     </w:t></w:r><w:r
+	wsp:rsidR="0017354D"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:u w:val="single" /></w:rPr><w:t>${repaymentMode.item3?default("    ")}</w:t></w:r><w:r
+	wsp:rsidR="002772F9" wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体"
+	w:fareast="方正仿宋简体" w:h-ansi="新宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:u
+	w:val="single" /></w:rPr><w:t>          </w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>。</w:t></w:r></w:p><w:p
+	wsp:rsidR="009B377F" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="009B377F"
+	wsp:rsidP="0006315D"><w:pPr><w:spacing w:before="60" w:line="500"
+	w:line-rule="exact" /><w:ind w:first-line-chars="200"
+	w:first-line="560" /><w:rPr><w:rFonts w:ascii="方正仿宋简体"
+	w:fareast="方正仿宋简体" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /></w:rPr><w:t>2</w:t></w:r><w:r wsp:rsidR="002772F9"
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /></w:rPr><w:t>．</w:t></w:r><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t> </w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>借款人授权贷款人从以下指定还款账户扣收贷款本金、利息及其他到期应付款项：</w:t></w:r></w:p><w:p
+	wsp:rsidR="002772F9" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="009B377F"
+	wsp:rsidP="002772F9"><w:pPr><w:spacing w:before="60" w:line="500"
+	w:line-rule="exact" /><w:ind w:first-line="358" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="新宋体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>开户机构：</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:u w:val="single" /></w:rPr><w:t> </w:t></w:r><w:r
+	wsp:rsidR="00D36648" wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体"
+	w:fareast="方正仿宋简体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:u w:val="single" /></w:rPr><w:t>           </w:t></w:r><w:r
+	wsp:rsidR="0017354D"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:u w:val="single" /></w:rPr><w:t>${repaymentMode.bankName?default("    ")}</w:t></w:r><w:r
+	wsp:rsidR="00D36648" wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体"
+	w:fareast="方正仿宋简体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:u w:val="single" /></w:rPr><w:t>              </w:t></w:r><w:r
+	wsp:rsidR="0037431E" wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体"
+	w:fareast="方正仿宋简体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:u w:val="single" /></w:rPr><w:t> </w:t></w:r><w:r
+	wsp:rsidR="00D36648" wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体"
+	w:fareast="方正仿宋简体" w:h-ansi="新宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>；</w:t></w:r></w:p><w:p
+	wsp:rsidR="009B377F" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="009B377F"
+	wsp:rsidP="002772F9"><w:pPr><w:spacing w:before="60" w:line="500"
+	w:line-rule="exact" /><w:ind w:first-line="358" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>户</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /></w:rPr><w:t>  </w:t></w:r><w:r wsp:rsidR="006B6A5A"
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /></w:rPr><w:t>  </w:t></w:r><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="新宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>名：</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:u w:val="single" /></w:rPr><w:t>  </w:t></w:r><w:r
+	wsp:rsidR="00D36648" wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体"
+	w:fareast="方正仿宋简体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:u w:val="single" /></w:rPr><w:t>          </w:t></w:r><w:r
+	wsp:rsidR="0017354D"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:u w:val="single" /></w:rPr><w:t>${repaymentMode.bankAccountName?default("     ")}</w:t></w:r><w:r
+	wsp:rsidR="00D36648" wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体"
+	w:fareast="方正仿宋简体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:u w:val="single" /></w:rPr><w:t>                         </w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:u w:val="single" /></w:rPr><w:t> </w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>；</w:t></w:r></w:p><w:p
+	wsp:rsidR="009B377F" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="009B377F"
+	wsp:rsidP="002772F9"><w:pPr><w:spacing w:before="60" w:line="500"
+	w:line-rule="exact" /><w:ind w:first-line="358" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="新宋体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>账</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /></w:rPr><w:t>  </w:t></w:r><w:r wsp:rsidR="006B6A5A"
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /></w:rPr><w:t>  </w:t></w:r><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="新宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>号：</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:u w:val="single" /></w:rPr><w:t>  </w:t></w:r><w:r
+	wsp:rsidR="00D36648" wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体"
+	w:fareast="方正仿宋简体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:u w:val="single" /></w:rPr><w:t></w:t></w:r><w:r
+	wsp:rsidR="0017354D"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:u w:val="single" /></w:rPr><w:t>${repaymentMode.bankAccountNum?default(" ")}</w:t></w:r><w:r
+	wsp:rsidR="00D36648" wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体"
+	w:fareast="方正仿宋简体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:u w:val="single" /></w:rPr><w:t>                         </w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:u w:val="single" /></w:rPr><w:t>  </w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>。</w:t></w:r></w:p><w:p
+	wsp:rsidR="006B6A5A" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="006B6A5A"
+	wsp:rsidP="002772F9"><w:pPr><w:spacing w:before="60" w:line="500"
+	w:line-rule="exact" /><w:ind w:first-line="358" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr><w:t>借款人可以提前还款，但应提前</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="Courier" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:b-cs /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:u w:val="single" /></w:rPr><w:t>  </w:t></w:r><w:r
+	wsp:rsidR="0017354D"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:u w:val="single" /></w:rPr><w:t>${noticeDrDayOfPrepayment?default(0)}</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="Courier" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:b-cs /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:u w:val="single" /></w:rPr><w:t>  </w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr><w:t>日通知贷款人。贷款人有</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr><w:t>权按提前还款部分的应收利息的</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="Courier" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:b-cs /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:u w:val="single" /></w:rPr><w:t>   </w:t></w:r><w:r
+	wsp:rsidR="0017354D"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:u w:val="single" /></w:rPr><w:t>${scaleOfSeverance?default("        ")}</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="Courier" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:b-cs /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:u w:val="single" /></w:rPr><w:t>   </w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr><w:t>比例计收罚息。提前还款的金额首先用来偿还最后到期的贷款，按照倒序还款。经贷款人同意提前还款的部分，借款人不得要求再次提用。</w:t></w:r></w:p></wx:sub-section><wx:sub-section><w:p
+	wsp:rsidR="006B6A5A" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="006B6A5A"
+	wsp:rsidP="0017354D"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94"
+	w:first-line-chars="200" w:first-line="562" /><w:jc w:val="left" /><w:outlineLvl
+	w:val="0" /><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" /><wx:font wx:val="方正仿宋简体" /><w:b /><w:b-cs /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:b /><w:b-cs /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>第六条   担保</w:t></w:r></w:p><w:p
+	wsp:rsidR="006B6A5A" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="006B6A5A"
+	wsp:rsidP="0006315D"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94"
+	w:first-line-chars="200" w:first-line="560" /><w:jc w:val="left" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="Courier" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr><w:t>本合同项下的全部债务采用如下方式担保：</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:b /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t> </w:t></w:r></w:p><w:p
+	wsp:rsidR="006B6A5A" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="006B6A5A"
+	wsp:rsidP="0006315D"><w:pPr><w:spacing w:line="500" w:line-rule="exact" /><w:ind
+	w:first-line-chars="200" w:first-line="560" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="0006315D"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /></w:rPr><w:t>□ </w:t></w:r><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="新宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr><w:t>由</w:t></w:r><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:u
+	w:val="single" /></w:rPr><w:t>   </w:t></w:r><w:r wsp:rsidR="0017354D"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:u
+	w:val="single" /></w:rPr><w:t>${guarantorInfo.guarantorName}</w:t></w:r><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:u
+	w:val="single" /></w:rPr><w:t>  </w:t></w:r><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="新宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr><w:t>提供连带责任保证担保</w:t></w:r><w:r
+	wsp:rsidRPr="0006315D"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>，</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>并另行签订保证合同</w:t></w:r><w:r
+	wsp:rsidRPr="0006315D"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>，</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>编号为</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:u w:val="single" /></w:rPr><w:t>  </w:t></w:r><w:r
+	wsp:rsidR="0017354D"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:u w:val="single" /></w:rPr><w:t>${guarantorInfo.subcontractNum}</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:u w:val="single" /></w:rPr><w:t>  </w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>。</w:t></w:r></w:p></wx:sub-section><wx:sub-section><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="0017354D"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94"
+	w:first-line-chars="200" w:first-line="562" /><w:jc w:val="left" /><w:outlineLvl
+	w:val="0" /><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:b /><w:b-cs /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>第七条   声明与承诺</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="0006315D"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94"
+	w:first-line-chars="200" w:first-line="560" /><w:jc w:val="left" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="Courier" /><wx:font
+	wx:val="方正仿宋简体" /><w:b-cs /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:b-cs /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>借款人声明如下：</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="0006315D"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94"
+	w:first-line-chars="200" w:first-line="560" /><w:jc w:val="left" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="宋体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="宋体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>（一）借款人为独立的民事主体，依法具有必要的权利能力，能以自身的名义履行本合同的义务并独立承担民事责任。</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="0006315D"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94"
+	w:first-line-chars="200" w:first-line="560" /><w:jc w:val="left" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:cs="宋体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr><w:t>（二）借款人有权签署本合同，本合同各条款均为其真实的意思表示，并保证已获得签署及履行其在本合同项下的义务所需的授权。</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="0006315D"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94"
+	w:first-line-chars="200" w:first-line="560" /><w:jc w:val="left" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:cs="宋体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr><w:t>（三）借款人向贷款人提供的所有文件、资料、报表和凭证等是准确、真实、完整和有效的。</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="0006315D"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94"
+	w:first-line-chars="200" w:first-line="560" /><w:jc w:val="left" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="宋体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="宋体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>（四）借款人未隐瞒任何已发生或正在发生的、有可能影响对其履约能力判断的下列情况：</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="0006315D"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94"
+	w:first-line-chars="200" w:first-line="560" /><w:jc w:val="left" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="Courier" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>1</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr><w:t>、与借款人或其主要领导人有牵连的重大违纪、违法或被索赔事件；</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94" /><w:jc
+	w:val="left" /><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="Courier" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>    2</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr><w:t>、借款人在其他合同项下的违约事件；</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94" /><w:jc
+	w:val="left" /><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="Courier" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>    3</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr><w:t>、借款人承担的债务、或有债务或向第三人提供的抵押、质押担保；</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94" /><w:jc
+	w:val="left" /><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="Courier" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>    4</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr><w:t>、未了结的诉讼、仲裁案件；</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:rPr><w:rFonts w:ascii="方正仿宋简体"
+	w:fareast="方正仿宋简体" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="Courier" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>    5</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr><w:t>、其他可能影响借款人财务状况和偿债能力的情况。</w:t></w:r></w:p></wx:sub-section><wx:sub-section><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="0017354D"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94"
+	w:first-line="480" /><w:jc w:val="left" /><w:outlineLvl
+	w:val="0" /><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" /><wx:font wx:val="方正仿宋简体" /><w:b /><w:b-cs /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:b /><w:b-cs /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>借款人承诺如下：</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94"
+	w:first-line="480" /><w:jc w:val="left" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="宋体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="宋体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>（一）如贷款人需要，借款人按贷款人的要求每月提供最新财务报表；</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr><w:t>每年第一季度提供经审计的上年年度财务报表；按贷款人要求随时提供包括但不限于借款人的经营状况、财务状况报告、报表等文件和资料。</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94"
+	w:first-line="480" /><w:jc w:val="left" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:cs="宋体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr><w:t>（二）借款人保证完成为本合同的有效并能合法履行所需的备案、登记或其他手续，并支付相关税项和费用。</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94"
+	w:first-line="480" /><w:jc w:val="left" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:cs="宋体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr><w:t>（三）如果借款人已经或将与本合同担保人就其担保义务签订反担保协议或类似协议，该协议将不会损害贷款人在本合同项下的任何权利。</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94"
+	w:first-line="480" /><w:jc w:val="left" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="宋体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="宋体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>（四）接受贷款人的信贷检查与监督，并给予足够的协助和配合。</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94"
+	w:first-line="480" /><w:jc w:val="left" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="宋体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="宋体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>（五）不利用借款从事违法经营活动。</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94"
+	w:first-line="480" /><w:jc w:val="left" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="宋体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="宋体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>（六）在本合同项下借款全部清偿前，借款人有任何一种改变经营方式行为（包括承包、租赁、合并、分立、股份制改造、联营、与外商合资或其他形式）时，应最迟于改变经营方式前三十天通知贷款人，并保证贷款本息的清偿。</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94"
+	w:first-line="480" /><w:jc w:val="left" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="宋体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="宋体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>（七）发生歇业、解散、停业整顿、被吊销营业执照、被撤销时，保证立即归还贷款本息。</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94"
+	w:first-line="480" /><w:jc w:val="left" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="宋体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="宋体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>（八）当客观上发生危及借款安全的情况时（包括涉及重大经济纠纷的诉讼、财务状况恶化等），应当在事件发生后</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="Courier" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:u
+	w:val="single" /></w:rPr><w:t>   </w:t></w:r><w:r wsp:rsidR="0017354D"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:u
+	w:val="single" /></w:rPr><w:t>${noticeDrDayOfDangerous?default(0)}</w:t></w:r><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="Courier"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:u w:val="single" /></w:rPr><w:t>  </w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="Courier" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t> </w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr><w:t>天以内书面通知贷款人，并保证贷款本息的偿还。</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94"
+	w:first-line="480" /><w:jc w:val="left" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="宋体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="宋体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>（九）借款人不以降低其偿债能力的方式处置自有资产。借款人对第三人提供保证或以自身资产设置抵押、质押担保时，将及时通知贷款人，并承诺其担保的债务总额不高于其自身净资产。</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94"
+	w:first-line="480" /><w:jc w:val="left" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="宋体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="宋体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>（十）借款人在其他银行申请贷款或增加其他债务前，应取得贷款人的书面同意。</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94"
+	w:first-line="480" /><w:jc w:val="left" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr><w:t>（十一）借款人承诺当发生如下事件时将及时通知贷款人：</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94" /><w:jc
+	w:val="left" /><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="Courier" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>    1</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr><w:t>、在本合同或其它任何合同项下发生违约事件；</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94" /><w:jc
+	w:val="left" /><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="Courier" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>    2</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr><w:t>、借款人发生隶属关系的变更、高级管理人员的变动、公司章程的修改以及内部组织机构的重大调整；</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94" /><w:jc
+	w:val="left" /><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="Courier" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>    3</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr><w:t>、借款人经营出现困难和财务状况发生恶化；</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94"
+	w:first-line="555" /><w:jc w:val="left" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="Courier" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>4</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr><w:t>、借款人涉入重大诉讼或仲裁案件；</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94"
+	w:first-line="555" /><w:jc w:val="left" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="Courier" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>5</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr><w:t>、借款人发生其他影响其偿债能力的情形。</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94"
+	w:first-line="480" /><w:jc w:val="left" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:cs="宋体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr><w:t>（十二）在有关会计年度的税后净利润为零或负数，或者税后利润不足以弥补以往会计年度累计亏损的情况下，或者税前利润未用于清偿借款人在该会计年度内应清偿的本金、利息和费用或者税前利润不足以清偿下一期本金、利息和费用时，借款人不以任何形式向股东分配股息、红利。</w:t></w:r></w:p></wx:sub-section><wx:sub-section><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="0017354D"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94"
+	w:first-line="480" /><w:jc w:val="left" /><w:outlineLvl
+	w:val="0" /><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" /><wx:font wx:val="方正仿宋简体" /><w:b /><w:b-cs /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:b /><w:b-cs /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>第八条  合同的变更</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94"
+	w:first-line="480" /><w:jc w:val="left" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="Courier" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr><w:t>（一）借款人需要延长借款期限的，应在借款到期日前</w:t></w:r><w:r
+	wsp:rsidR="0017354D"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:u w:val="single" /></w:rPr><w:t>${noticeDrDayOfExtendEndTime?default(0)}</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:cs="宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>日内向贷款人提出申请，并征得担保人的书面同意。</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="Courier" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>    </w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94"
+	w:first-line="480" /><w:jc w:val="left" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="宋体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="宋体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>（二）借款人如要将本合同项下债务转让给第三人，应经贷款人书面同意。在受让人和贷款人重新签订借款合同前，本合同继续有效。</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94"
+	w:first-line="480" /><w:jc w:val="left" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="宋体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="宋体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>（三）借款人、贷款人任一方需变更本合同条款，均应书面通知对方，并经双方协商一致，达成书面协议。</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94"
+	w:first-line="480" /><w:jc w:val="left" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="宋体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="宋体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>（四）借、贷双方协议变更本合同内容，均应征得担保人书面同意。</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94"
+	w:first-line="480" /><w:jc w:val="left" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="宋体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="宋体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>（五）本合同的任何条款的无效均不影响其他条款的效力。</w:t></w:r></w:p></wx:sub-section><wx:sub-section><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="0017354D"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94"
+	w:first-line-chars="200" w:first-line="562" /><w:jc w:val="left" /><w:outlineLvl
+	w:val="0" /><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" /><wx:font wx:val="方正仿宋简体" /><w:b /><w:b-cs /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:b /><w:b-cs /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>第九条   违约事件及处理</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="0006315D"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94"
+	w:first-line-chars="200" w:first-line="560" /><w:jc w:val="left" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="宋体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="宋体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>如借款人未按约定期限还款且未就展期事宜与贷款人达成协议，贷款人有权就贷款逾期部分从逾期之日起按照贷款逾期罚息利率计收罚息，直至借款人完全清偿本息为止；如借款人未按约定用途使用贷款，贷款人有权就贷款挪用部分从挪用之日起按照贷款挪用罚息利率计收罚息，直至借款人完全清偿本息为止。</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94"
+	w:first-line="480" /><w:jc w:val="left" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="宋体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="宋体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>逾期是指：一、到期一次性还本付息的，到期未偿还的；</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94"
+	w:first-line="480" /><w:jc w:val="left" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="宋体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="宋体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>          二、分期按计划还款的，一次到期未偿还的。</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="0006315D"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94"
+	w:first-line-chars="200" w:first-line="560" /><w:jc w:val="left" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="宋体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="宋体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>贷款逾期罚息利率为本合同约定借款利率的</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:u
+	w:val="single" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>  </w:t></w:r><w:r
+	wsp:rsidR="0017354D"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:u w:val="single" /></w:rPr><w:t>${loanOverduePunitiveInterestRate?default(0)}</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:u
+	w:val="single" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>   </w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:b-cs /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>%</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr><w:t>；贷款挪用罚息利率为本合同约定借款利率的</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:u
+	w:val="single" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>  </w:t></w:r><w:r
+	wsp:rsidR="0017354D"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:u w:val="single" /></w:rPr><w:t>${loanFundsPunitiveInterestRate?default(0)}</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:u
+	w:val="single" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>   </w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:b-cs /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t> %</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr><w:t>。</w:t></w:r></w:p><w:p wsp:rsidR="00FD794B"
+	wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B" wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE
+	w:val="off" /><w:autoSpaceDN w:val="off" /><w:adjustRightInd
+	w:val="off" /><w:spacing w:line="520" w:line-rule="exact" /><w:ind
+	w:right="-94" w:first-line="495" /><w:jc w:val="left" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="宋体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="宋体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>如借款人未按期足额付息，贷款人有权就到期未付利息部分按照与贷款本金相同的罚息利率计收复利。同一笔贷款既逾期又挪用，按照贷款挪用罚息利率计收复利。如贷款本金正常，则按照贷款逾期罚息利率计收复利。</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="0006315D"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94"
+	w:first-line-chars="200" w:first-line="560" /><w:jc w:val="left" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="宋体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="宋体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>计收罚息和复利，遇本合同约定的借款利率调整，自调整之日分段计算罚息和复利。</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="0006315D"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94"
+	w:first-line-chars="200" w:first-line="560" /><w:jc w:val="left" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:cs="宋体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="宋体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>有下列情形之一的，贷款人有权停止借款人提款或取消借款人尚未提用的借款额度，并宣布本合同项下的借款本息全部立即到期：</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /></w:rPr><w:t> </w:t></w:r></w:p><w:p wsp:rsidR="00FD794B"
+	wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B" wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE
+	w:val="off" /><w:autoSpaceDN w:val="off" /><w:adjustRightInd
+	w:val="off" /><w:spacing w:line="520" w:line-rule="exact" /><w:ind
+	w:right="-94" /><w:jc w:val="left" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="Courier" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>    1</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr><w:t>、借款人逾期未付本金或利息超过</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="Courier" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:b-cs /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /></w:rPr><w:t>7</w:t></w:r><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="宋体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>日；</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94" /><w:jc
+	w:val="left" /><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="Courier" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>    2</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr><w:t>、借款人逾期及挪用款项总额达</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="Courier" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:b-cs /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /></w:rPr><w:t>1</w:t></w:r><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="宋体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>元人民币；</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94"
+	w:first-line="480" /><w:jc w:val="left" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="Courier" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>3</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr><w:t>、借款人在第七条中的声明不真实或违反其所作的承诺；</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94" /><w:jc
+	w:val="left" /><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="Courier" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>    4</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr><w:t>、借款人在其他合同项下发生违约事件；</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94" /><w:jc
+	w:val="left" /><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="Courier" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>    5</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr><w:t>、保证人、抵押人、质押人在担保合同项下发生违约事件，影响借款人履行本合同项下的义务；</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94" /><w:jc
+	w:val="left" /><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="Courier" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>    6</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr><w:t>、抵押物、质物贬值、毁损、灭失、被查封或冻结，借款人未按贷款人的要求提供新的担保的；</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94"
+	w:first-line="480" /><w:jc w:val="left" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr><w:t>7、</w:t></w:r><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="新宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:u
+	w:val="single" /></w:rPr><w:t>                                                       </w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>。</w:t></w:r></w:p></wx:sub-section><wx:sub-section><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="0017354D"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94"
+	w:first-line-chars="200" w:first-line="562" /><w:jc w:val="left" /><w:outlineLvl
+	w:val="0" /><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:cs="宋体" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:cs="宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:b /><w:b-cs /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>第十条   扣划</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94" /><w:jc
+	w:val="left" /><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:cs="宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>    借款人同意，借款人在本合同项下应支付的任何款项，可由贷款人从借款人帐户上直接扣划。</w:t></w:r></w:p></wx:sub-section><wx:sub-section><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="0017354D"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94"
+	w:first-line-chars="200" w:first-line="562" /><w:jc w:val="left" /><w:outlineLvl
+	w:val="0" /><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:cs="宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:b /><w:b-cs /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>第十一条   税费</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94" /><w:jc
+	w:val="left" /><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="Courier" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:cs="宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>    与本合同订立、履行及纠纷解决有关的税收及费用，包括但不限于印花税、利息预提税、诉讼费、执行费、律师代理费、公证费等均由借款人支付或偿付。</w:t></w:r></w:p></wx:sub-section><wx:sub-section><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="0017354D"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94"
+	w:first-line-chars="200" w:first-line="562" /><w:jc w:val="left" /><w:outlineLvl
+	w:val="0" /><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="Courier" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:cs="宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:b /><w:b-cs /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>第十二条   抵销、转让与权利保留</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94" /><w:jc
+	w:val="left" /><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="Courier" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>    </w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr><w:t>借款人应全额支付本合同项下应付款项，不得提出抵销的主张。但贷款人同意的除外。</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94" /><w:jc
+	w:val="left" /><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /></w:rPr><w:t>    </w:t></w:r><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr><w:t>未经贷款人书面同意，借款人不得将本合同项下义务转让给第三人。</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94" /><w:jc
+	w:val="left" /><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="Courier" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="Courier" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>    </w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr><w:t>贷款人给予借款人任何宽容、宽限、优惠或延缓行使本合同项下的任何权利，均不影响、损害或限制贷款人依本合同和法律、法规而享有的一切权益，不应视为贷款人对本合同项下权利、权益的放弃，也不能免除借款人在本合同项下应承担的任何义务。</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="0006315D"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94"
+	w:first-line-chars="200" w:first-line="562" /><w:jc w:val="left" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="Courier" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:b /><w:b-cs /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>第十三条   法律适用、争议解决及司法管辖</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94" /><w:jc
+	w:val="left" /><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="Courier" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>    </w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr><w:t>本合同适用中华人民共和国法律。</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:tabs><w:tab w:val="left" w:pos="425" /></w:tabs><w:autoSpaceDE
+	w:val="off" /><w:autoSpaceDN w:val="off" /><w:adjustRightInd
+	w:val="off" /><w:spacing w:line="520" w:line-rule="exact" /><w:ind
+	w:right="-94" /><w:jc w:val="left" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="Courier" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>    </w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr><w:t>因履行本合同所发生的或与本合同有关的一切争议、纠纷，双方应协商解决。协商不成的，依法直接向贷款人住所地人民法院起诉。</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="0006315D"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94"
+	w:first-line-chars="200" w:first-line="562" /><w:jc w:val="left" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="Courier" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:b /><w:b-cs /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>第十四条   附件</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94"
+	w:first-line="480" /><w:jc w:val="left" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="Courier" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr><w:t>下列附件及经双方共同确认的其它附件是本合同不可分割的组成部分，具有与本合同相同的效力。</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:tabs><w:tab w:val="left" w:pos="2310" /></w:tabs><w:autoSpaceDE
+	w:val="off" /><w:autoSpaceDN w:val="off" /><w:adjustRightInd
+	w:val="off" /><w:spacing w:line="520" w:line-rule="exact" /><w:ind
+	w:right="-94" /><w:jc w:val="left" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" /><wx:font wx:val="方正仿宋简体" /><w:b /><w:b-cs /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr><w:t>（一）</w:t></w:r><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="Courier"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /></w:rPr><w:t> </w:t></w:r><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="宋体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>借款凭证</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:b /><w:b-cs /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>；</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="Courier" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:b /><w:b-cs /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /></w:rPr><w:tab /></w:r></w:p><w:p wsp:rsidR="00FD794B"
+	wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B" wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE
+	w:val="off" /><w:autoSpaceDN w:val="off" /><w:adjustRightInd
+	w:val="off" /><w:spacing w:line="520" w:line-rule="exact" /><w:ind
+	w:right="-94" /><w:jc w:val="left" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="Courier" /><wx:font
+	wx:val="方正仿宋简体" /><w:b /><w:b-cs /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:b-cs /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>（二）</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="Courier" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t> </w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr><w:t>贷款人认为必备的其它资料。</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="0006315D"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94"
+	w:first-line-chars="200" w:first-line="562" /><w:jc w:val="left" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" /><wx:font wx:val="方正仿宋简体" /><w:b /><w:b-cs /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:b /><w:b-cs /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>第十五条   合同生效</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="0006315D"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94"
+	w:first-line-chars="200" w:first-line="560" /><w:jc w:val="left" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" /><wx:font wx:val="方正仿宋简体" /><w:b /><w:b-cs /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr><w:t>本合同经借贷双方加盖公章/合同章并由双方法定代表人或授权代理人签章后生效。</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94"
+	w:first-line="480" /><w:rPr><w:rFonts w:ascii="方正仿宋简体"
+	w:fareast="方正仿宋简体" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr><w:t>本合同一式</w:t></w:r><w:r wsp:rsidR="0017354D"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:u
+	w:val="single" /></w:rPr><w:t>${copyTotal?default(0)}</w:t></w:r><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="宋体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>份，借贷双方、</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:b-cs /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>[担保人、公证处、登记机关]</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr><w:t>各执一份，均具同等效力。</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="0006315D"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94"
+	w:first-line-chars="200" w:first-line="562" /><w:jc w:val="left" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="宋体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:b /><w:b-cs /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>第十六条</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:b /><w:b-cs /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>  </w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:cs="宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:b /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>双方商定的其他事项：</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:rPr><w:rFonts w:ascii="方正仿宋简体"
+	w:fareast="方正仿宋简体" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:u w:val="single" /></w:rPr><w:t>                                                              </w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94" /><w:jc
+	w:val="left" /><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" /><wx:font wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:u w:val="single" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="新宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:u w:val="single" /></w:rPr><w:t>                                                              </w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="0006315D"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:right="-94"
+	w:first-line-chars="200" w:first-line="562" /><w:jc w:val="left" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:cs="宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:b /><w:b-cs /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>第十七条</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="Courier" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:b /><w:b-cs /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /></w:rPr><w:t>   </w:t></w:r><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="宋体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:b /><w:b-cs /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>特别提示</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:left="-3"
+	w:first-line="528" /><w:rPr><w:rFonts w:ascii="方正仿宋简体"
+	w:fareast="方正仿宋简体" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:cs="宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>借款人已经与贷款人就本合同中的所有条款进行了充分的协商。</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:left="-3"
+	w:first-line="528" /><w:rPr><w:rFonts w:ascii="方正仿宋简体"
+	w:fareast="方正仿宋简体" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:cs="宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>贷款人已提请借款人特别注意有关双方权利义务的全部条款，借款人对其有全面、准确的理解。贷款人已经应借款人的要求对上述条款做出相应的说明。</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="520" w:line-rule="exact" /><w:ind w:left="-3"
+	w:first-line="528" /><w:rPr><w:rFonts w:ascii="方正仿宋简体"
+	w:fareast="方正仿宋简体" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:cs="宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>签约各方对本合同条款的理解完全一致。</w:t></w:r></w:p><w:p
+	wsp:rsidR="00A5503A" wsp:rsidRDefault="00B6091F"><w:r><w:br w:type="page" /></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="360" w:line-rule="auto" /><w:ind w:right="-94" /><w:jc
+	w:val="left" /><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" /><wx:font
+	wx:val="方正仿宋简体" /><w:b-cs /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:u w:val="single" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:cs="宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:b-cs /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>借款人</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:b-cs /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>：</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="Courier" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:b-cs /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /></w:rPr><w:t>                          </w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:b-cs /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>共同借款人：</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="360" w:line-rule="auto" /><w:ind w:right="-94" /><w:jc
+	w:val="left" /><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="Courier" /><wx:font wx:val="方正仿宋简体" /><w:b-cs /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr></w:pPr></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="360" w:line-rule="auto" /><w:ind w:right="-94" /><w:jc
+	w:val="left" /><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" /><wx:font wx:val="方正仿宋简体" /><w:b-cs /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:cs="宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:b-cs /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>法定代表人</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:cs="宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>或授权代理人</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:cs="宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:b-cs /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>：</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="Courier" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:b-cs /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /></w:rPr><w:t>          法定代表人</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:cs="宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>或授权代理人</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:b-cs /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>：</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="360" w:line-rule="auto" /><w:ind w:right="-94" /><w:jc
+	w:val="left" /><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" /><wx:font
+	wx:val="方正仿宋简体" /><w:b-cs /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /></w:rPr></w:pPr></w:p><w:p wsp:rsidR="00FD794B"
+	wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B" wsp:rsidP="00FD794B"><w:pPr><w:tabs><w:tab
+	w:val="left" w:pos="7080" /></w:tabs><w:autoSpaceDE
+	w:val="off" /><w:autoSpaceDN w:val="off" /><w:adjustRightInd
+	w:val="off" /><w:spacing w:line="480" w:line-rule="at-least" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:cs="宋体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:b-cs /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:u w:val="single" /></w:rPr><w:t>     </w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:cs="宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:b-cs /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>年</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:b-cs /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:u w:val="single" /></w:rPr><w:t>     </w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:cs="宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:b-cs /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>月</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:b-cs /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:u w:val="single" /></w:rPr><w:t>     </w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:cs="宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:b-cs /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>日</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:b-cs /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /></w:rPr><w:t>             </w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:b-cs /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:u w:val="single" /></w:rPr><w:t>      </w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:cs="宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:b-cs /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>年</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:b-cs /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:u w:val="single" /></w:rPr><w:t>     </w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:cs="宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:b-cs /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>月</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:b-cs /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:u w:val="single" /></w:rPr><w:t>     </w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:cs="宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>日</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:tabs><w:tab w:val="left" w:pos="7080" /></w:tabs><w:autoSpaceDE
+	w:val="off" /><w:autoSpaceDN w:val="off" /><w:adjustRightInd
+	w:val="off" /><w:spacing w:line="480" w:line-rule="at-least" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:cs="宋体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr></w:pPr></w:p><w:p wsp:rsidR="00FD794B"
+	wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B" wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE
+	w:val="off" /><w:autoSpaceDN w:val="off" /><w:adjustRightInd
+	w:val="off" /><w:spacing w:line="360" w:line-rule="auto" /><w:ind
+	w:right="-94" /><w:jc w:val="left" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" /><wx:font wx:val="方正仿宋简体" /><w:b-cs /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:u w:val="single" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:cs="宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:b-cs /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>贷款人</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="宋体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:b-cs /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>：</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:h-ansi="Courier" w:cs="Courier" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:b-cs /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /></w:rPr><w:t> </w:t></w:r></w:p><w:p wsp:rsidR="00FD794B"
+	wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B" wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE
+	w:val="off" /><w:autoSpaceDN w:val="off" /><w:adjustRightInd
+	w:val="off" /><w:spacing w:line="360" w:line-rule="auto" /><w:ind
+	w:right="-94" /><w:jc w:val="left" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="Courier" /><wx:font
+	wx:val="方正仿宋简体" /><w:b-cs /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /></w:rPr></w:pPr></w:p><w:p wsp:rsidR="00FD794B"
+	wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B" wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE
+	w:val="off" /><w:autoSpaceDN w:val="off" /><w:adjustRightInd
+	w:val="off" /><w:spacing w:line="360" w:line-rule="auto" /><w:ind
+	w:right="-94" /><w:jc w:val="left" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:h-ansi="Courier" w:cs="宋体" /><wx:font
+	wx:val="方正仿宋简体" /><w:b-cs /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:cs="宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:b-cs /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>法定代表人</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:cs="宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>或授权代理人</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:cs="宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:b-cs /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>：</w:t></w:r></w:p><w:p
+	wsp:rsidR="00FD794B" wsp:rsidRPr="00D363EE" wsp:rsidRDefault="00FD794B"
+	wsp:rsidP="00FD794B"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:line="360" w:line-rule="auto" /><w:ind w:right="-94" /><w:jc
+	w:val="left" /><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" /><wx:font
+	wx:val="方正仿宋简体" /><w:b-cs /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /></w:rPr></w:pPr></w:p><w:p wsp:rsidR="00FD794B"
+	wsp:rsidRPr="009C2C78" wsp:rsidRDefault="00FD794B" wsp:rsidP="00FD794B"><w:pPr><w:tabs><w:tab
+	w:val="left" w:pos="7080" /></w:tabs><w:autoSpaceDE
+	w:val="off" /><w:autoSpaceDN w:val="off" /><w:adjustRightInd
+	w:val="off" /><w:spacing w:line="480" w:line-rule="at-least" /><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:cs="宋体" /><wx:font
+	wx:val="方正仿宋简体" /><w:sz w:val="28" /><w:sz-cs w:val="28" /><w:lang
+	w:val="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:b-cs /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /><w:u w:val="single" /></w:rPr><w:t>     </w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:cs="宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:b-cs /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>年</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:b-cs /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:u w:val="single" /></w:rPr><w:t>     </w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:cs="宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:b-cs /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>月</w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:b-cs /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:u w:val="single" /></w:rPr><w:t>     </w:t></w:r><w:r
+	wsp:rsidRPr="00D363EE"><w:rPr><w:rFonts w:ascii="方正仿宋简体" w:fareast="方正仿宋简体"
+	w:cs="宋体" w:hint="fareast" /><wx:font wx:val="方正仿宋简体" /><w:b-cs /><w:sz
+	w:val="28" /><w:sz-cs w:val="28" /><w:lang w:val="ZH-CN" /></w:rPr><w:t>日</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="方正仿宋简体" w:fareast="方正仿宋简体" w:hint="fareast" /><wx:font
+	wx:val="方正仿宋简体" /><w:b-cs /><w:sz w:val="28" /><w:sz-cs
+	w:val="28" /></w:rPr><w:t> </w:t></w:r></w:p><w:p wsp:rsidR="009B377F"
+	wsp:rsidRDefault="009B377F" /></wx:sub-section><w:sectPr
+	wsp:rsidR="009B377F" wsp:rsidSect="00A04F31"><w:ftr w:type="even"><wx:pBdrGroup><wx:apo><wx:jc
+	wx:val="center" /></wx:apo><w:p wsp:rsidR="009B377F"
+	wsp:rsidRDefault="00DB7782"><w:pPr><w:pStyle w:val="a5" /><w:framePr
+	w:h="0" w:wrap="around" w:vanchor="text" w:hanchor="margin" w:x-align="center"
+	w:y="1" /><w:rPr><w:rStyle w:val="a3" /></w:rPr></w:pPr><w:r><w:fldChar
+	w:fldCharType="begin" /></w:r><w:r wsp:rsidR="009B377F"><w:rPr><w:rStyle
+	w:val="a3" /></w:rPr><w:instrText>PAGE  </w:instrText></w:r><w:r><w:fldChar
+	w:fldCharType="separate" /></w:r><w:r wsp:rsidR="009B377F"><w:rPr><w:rStyle
+	w:val="a3" /></w:rPr><w:t>1</w:t></w:r><w:r><w:fldChar
+	w:fldCharType="end" /></w:r></w:p></wx:pBdrGroup><w:p wsp:rsidR="009B377F"
+	wsp:rsidRDefault="009B377F"><w:pPr><w:pStyle w:val="a5" /></w:pPr></w:p></w:ftr><w:ftr
+	w:type="odd"><wx:pBdrGroup><wx:apo><wx:jc wx:val="center" /></wx:apo><w:p
+	wsp:rsidR="009B377F" wsp:rsidRDefault="00DB7782"><w:pPr><w:pStyle w:val="a5" /><w:framePr
+	w:h="0" w:wrap="around" w:vanchor="text" w:hanchor="margin" w:x-align="center"
+	w:y="1" /><w:rPr><w:rStyle w:val="a3" /></w:rPr></w:pPr><w:r><w:fldChar
+	w:fldCharType="begin" /></w:r><w:r wsp:rsidR="009B377F"><w:rPr><w:rStyle
+	w:val="a3" /></w:rPr><w:instrText>PAGE  </w:instrText></w:r><w:r><w:fldChar
+	w:fldCharType="separate" /></w:r><w:r wsp:rsidR="00A5188A"><w:rPr><w:rStyle
+	w:val="a3" /><w:noProof /></w:rPr><w:t>- 1 -</w:t></w:r><w:r><w:fldChar
+	w:fldCharType="end" /></w:r></w:p></wx:pBdrGroup><w:p wsp:rsidR="009B377F"
+	wsp:rsidRDefault="009B377F"><w:pPr><w:pStyle w:val="a5" /></w:pPr></w:p></w:ftr><w:pgSz
+	w:w="11906" w:h="16838" /><w:pgMar w:top="2098" w:right="1474"
+	w:bottom="1985" w:left="1588" w:header="851" w:footer="992" w:gutter="0" /><w:pgNumType
+	w:fmt="number-in-dash" /><w:cols w:space="720" /><w:docGrid
+	w:type="lines" w:line-pitch="312" /></w:sectPr></w:body></w:wordDocument>

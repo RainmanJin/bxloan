@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ExcelConfigs>
+	<!-- 金融办导入补充数据 -->
+	<config>
+		<importName>financialOfficeSHExcelConfiger</importName>
+		<boClass>com.coamctech.bxloan.service.model.datatransend.DataImportVo</boClass>
+		<serviceBeanId>excelIn</serviceBeanId>
+		<serviceMethodName>excelIn</serviceMethodName>
+		<startLine>3</startLine><!-- 实际起始行，第一行就是1 -->
+		<fields>
+			<field>
+				<name>contractNum</name>
+				<desc>合同编号</desc>
+				<columnIndex>0</columnIndex>
+				<allowBlank>false</allowBlank>
+			</field>
+			<field>
+				<name>repayDate</name>
+				<desc>还款日期</desc>
+				<columnIndex>1</columnIndex>
+				<allowBlank>false</allowBlank>
+			</field>
+			<field> 
+				<name>repayAmt</name>
+				<desc>还款金额</desc>         
+				<columnIndex>2</columnIndex>
+				<allowBlank>false</allowBlank> 
+				<regex>^\d{1,13}(\.\d{1,2})?$</regex>
+				<regexMsg>金额长度过长，请重新上传！</regexMsg>
+			</field>   
+		</fields>
+	</config>
+</ExcelConfigs>
